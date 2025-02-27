@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/malharsingh/Desktop/LAB1%202500/mlruns/643190625275673244/8688e8f0977445ac887b62575803fd2e/artifacts
+end_time: 1740615272623
+entry_point_name: ''
+experiment_id: '643190625275673244'
+lifecycle_stage: active
+run_id: 8688e8f0977445ac887b62575803fd2e
+run_name: whimsical-worm-860
+run_uuid: 8688e8f0977445ac887b62575803fd2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740615269835
+status: 3
+tags: []
+user_id: malharsingh

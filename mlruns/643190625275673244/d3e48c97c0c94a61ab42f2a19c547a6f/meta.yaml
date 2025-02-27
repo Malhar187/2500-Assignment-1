@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/malharsingh/Desktop/LAB1%202500/mlruns/643190625275673244/d3e48c97c0c94a61ab42f2a19c547a6f/artifacts
+end_time: 1740615046416
+entry_point_name: ''
+experiment_id: '643190625275673244'
+lifecycle_stage: active
+run_id: d3e48c97c0c94a61ab42f2a19c547a6f
+run_name: debonair-ox-633
+run_uuid: d3e48c97c0c94a61ab42f2a19c547a6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740615043545
+status: 3
+tags: []
+user_id: malharsingh

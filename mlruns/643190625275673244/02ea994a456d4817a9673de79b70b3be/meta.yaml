@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/malharsingh/Desktop/LAB1%202500/mlruns/643190625275673244/02ea994a456d4817a9673de79b70b3be/artifacts
+end_time: 1740615196296
+entry_point_name: ''
+experiment_id: '643190625275673244'
+lifecycle_stage: active
+run_id: 02ea994a456d4817a9673de79b70b3be
+run_name: angry-donkey-436
+run_uuid: 02ea994a456d4817a9673de79b70b3be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740615196219
+status: 4
+tags: []
+user_id: malharsingh

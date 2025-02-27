@@ -1,0 +1,35 @@
+artifact_path: Random_Forest_Model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+is_signature_from_type_hint: false
+mlflow_version: 2.20.3
+model_size_bytes: 3067232
+model_uuid: 86ec9073e3164ba2905f96aaadcaf338
+run_id: 8688e8f0977445ac887b62575803fd2e
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "long", "name": "Routes Completed", "required": true}, {"type":
+    "double", "name": "Time to Complete (min)", "required": true}, {"type": "long",
+    "name": "# of Adult Volunteers", "required": true}, {"type": "long", "name": "#
+    of Youth Volunteers", "required": true}, {"type": "long", "name": "Total Volunteers",
+    "required": true}, {"type": "long", "name": "Doors in Route", "required": true}]'
+  outputs: '[{"type": "double", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-02-27 00:14:31.460602'

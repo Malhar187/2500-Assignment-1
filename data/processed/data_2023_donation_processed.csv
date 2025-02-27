@@ -1,0 +1,451 @@
+Date,Location,Stake,# of Adult Volunteers,# of Youth Volunteers,Donation Bags Collected,Time to Complete (min),Completed More Than One Route,Ward/Branch,Routes Completed,Doors in Route,Time Spent,New Route Number/Name,TotalRoutes,AvgDoorsPerRoute,TotalDonationVolume,Total Volunteers
+2023-09-23 10:36:10,Londonderry Chapel,Bonnie Doon Stake,1,3,14,25.0,0,Clareview Ward,2,14,25.0,Bonnie Doon Stake 1,127,14.0,14,4
+2023-09-23 10:36:52,Gateway Stake Centre,Gateway Stake,3,1,18,25.0,1,Crawford Plains Ward,2,144,30.0,Gateway Stake 1,192,144.0,18,4
+2023-09-23 10:40:22,Gateway Stake Centre,Gateway Stake,2,0,20,30.0,0,Silver Berry Ward,2,186,30.0,Gateway Stake 2,192,186.0,20,2
+2023-09-23 10:41:08,Gateway Stake Centre,Gateway Stake,2,0,20,25.0,1,Crawford Plains Ward,1,196,30.0,Gateway Stake 3,192,196.0,20,2
+2023-09-23 10:44:10,Londonderry Chapel,Bonnie Doon Stake,1,0,2,5.0,0,Londonderry Ward,2,1,-30.894484412470025,Bonnie Doon Stake 2,127,1.0,2,1
+2023-09-23 10:48:19,Bearspaw Chapel,Gateway Stake,2,0,20,20.0,0,Blackmud Creek Ward,2,179,20.0,Gateway Stake 4,192,179.0,20,2
+2023-09-23 10:50:22,Gateway Stake Centre,Gateway Stake,1,4,17,25.0,0,Lee Ridge Ward,2,141,22.0,Gateway Stake 5,192,141.0,17,5
+2023-09-23 10:51:08,Londonderry Chapel,Bonnie Doon Stake,2,0,32,45.0,0,Londonderry Ward,2,27,-30.894484412470025,Bonnie Doon Stake 3,127,27.0,32,2
+2023-09-23 10:51:58,Londonderry Chapel,Bonnie Doon Stake,2,0,100,5.0,1,Londonderry Ward,2,200,49.0,Bonnie Doon Stake 4,127,200.0,100,2
+2023-09-23 10:52:50,Bearspaw Chapel,Bonnie Doon Stake,2,3,15,45.0,0,Southgate Ward,2,13,35.0,Bonnie Doon Stake 5,127,13.0,15,5
+2023-09-23 10:53:37,Bonnie Doon Stake Centre,Bonnie Doon Stake,1,2,30,30.0,0,Connors Hill Ward,2,300,30.0,Bonnie Doon Stake 6,127,300.0,30,3
+2023-09-23 10:55:47,Londonderry Chapel,Bonnie Doon Stake,1,0,17,60.0,0,Clareview Ward,2,110,-30.894484412470025,Bonnie Doon Stake 7,127,110.0,17,1
+2023-09-23 10:55:58,Londonderry Chapel,Bonnie Doon Stake,3,2,20,40.0,0,Londonderry Ward,2,107,40.0,Bonnie Doon Stake 8,127,107.0,20,5
+2023-09-23 10:56:13,Coronation Park Chapel,Bonnie Doon Stake,2,1,25,55.0,0,Coronation Park Ward,2,20,55.0,Bonnie Doon Stake 9,127,20.0,25,3
+2023-09-23 10:58:47,Londonderry Chapel,Bonnie Doon Stake,2,3,24,45.0,1,Clareview Ward,3,250,45.0,Bonnie Doon Stake 10,127,250.0,24,5
+2023-09-23 10:59:19,Bonnie Doon Stake Centre,Bonnie Doon Stake,3,5,10,60.0,0,Connors Hill Ward,2,184,60.0,Bonnie Doon Stake 11,127,184.0,10,8
+2023-09-23 11:01:08,Londonderry Chapel,Bonnie Doon Stake,2,2,12,30.0,0,Londonderry Ward,2,12,-30.894484412470025,Bonnie Doon Stake 12,127,12.0,12,4
+2023-09-23 11:01:52,Londonderry Chapel,Bonnie Doon Stake,2,0,30,45.0,1,Londonderry Ward,2,196,60.0,Bonnie Doon Stake 13,127,196.0,30,2
+2023-09-23 11:03:03,Londonderry Chapel,Bonnie Doon Stake,2,0,16,25.0,0,Londonderry Ward,2,98,25.0,Bonnie Doon Stake 14,127,98.0,16,2
+2023-09-23 11:03:09,Bonnie Doon Stake Centre,Bonnie Doon Stake,2,2,10,20.0,1,Forest Heights Ward,2,120,20.0,Bonnie Doon Stake 15,127,120.0,10,4
+2023-09-23 11:03:15,Coronation Park Chapel,Bonnie Doon Stake,2,0,20,60.0,0,Coronation Park Ward,2,96,60.0,Bonnie Doon Stake 16,127,96.0,20,2
+2023-09-23 11:03:27,Gateway Stake Centre,Gateway Stake,5,0,29,30.0,0,Silver Berry Ward,2,19,30.0,Gateway Stake 6,192,19.0,29,5
+2023-09-23 11:04:02,Bonnie Doon Stake Centre,Bonnie Doon Stake,2,1,40,30.0,0,Forest Heights Ward,2,200,45.0,Bonnie Doon Stake 17,127,200.0,40,3
+2023-09-23 11:04:30,Coronation Park Chapel,Bonnie Doon Stake,2,0,18,63.0,0,Coronation Park Ward,2,140,63.0,Bonnie Doon Stake 18,127,140.0,18,2
+2023-09-23 11:05:27,Gateway Stake Centre,Gateway Stake,2,3,21,30.0,0,Silver Berry Ward,2,1,32.0,Gateway Stake 7,192,1.0,21,5
+2023-09-23 11:06:19,Bearspaw Chapel,Gateway Stake,5,3,24,40.0,0,Lee Ridge Ward,2,157,40.0,Gateway Stake 8,192,157.0,24,8
+2023-09-23 11:06:35,Bonnie Doon Stake Centre,Bonnie Doon Stake,2,3,40,180.0,1,Connors Hill Ward,2,375,60.0,Bonnie Doon Stake 19,127,375.0,40,5
+2023-09-23 11:06:47,Gateway Stake Centre,Gateway Stake,3,0,35,30.0,0,Silver Berry Ward,2,250,740.0,Gateway Stake 9,192,250.0,35,3
+2023-09-23 11:06:48,Gateway Stake Centre,Gateway Stake,2,0,15,25.0,0,Crawford Plains Ward,2,116,25.0,Gateway Stake 10,192,116.0,15,2
+2023-09-23 11:07:00,Bonnie Doon Stake Centre,Bonnie Doon Stake,2,0,30,30.0,0,Forest Heights Ward,2,115,30.0,Bonnie Doon Stake 20,127,115.0,30,2
+2023-09-23 11:07:50,Londonderry Chapel,Bonnie Doon Stake,1,1,36,45.0,0,Clareview Ward,2,15,-30.894484412470025,Bonnie Doon Stake 21,127,15.0,36,2
+2023-09-23 11:09:01,Bonnie Doon Stake Centre,Bonnie Doon Stake,2,2,15,30.0,0,Forest Heights Ward,2,90,38.0,Bonnie Doon Stake 22,127,90.0,15,4
+2023-09-23 11:09:16,North Stake Centre,Edmonton North Stake,2,1,21,45.0,0,Griesbach Ward,2,206,45.0,Edmonton North Stake 1,57,206.0,21,3
+2023-09-23 11:09:16,Gateway Stake Centre,Gateway Stake,2,3,21,32.0,0,Silver Berry Ward,2,202,32.0,Gateway Stake 11,192,202.0,21,5
+2023-09-23 11:09:20,North Stake Centre,Edmonton North Stake,1,1,23,45.0,0,Griesbach Ward,2,206,45.0,Edmonton North Stake 2,57,206.0,23,2
+2023-09-23 11:09:47,Riverbend Stake Centre,Riverbend Stake,2,0,30,50.0,0,Greenfield Ward,2,172,50.0,Riverbend Stake 1,73,172.0,30,2
+2023-09-23 11:10:31,Londonderry Chapel,Bonnie Doon Stake,2,0,24,30.0,0,Clareview Ward,2,23,-30.894484412470025,Bonnie Doon Stake 23,127,23.0,24,2
+2023-09-23 11:11:29,Coronation Park Chapel,Bonnie Doon Stake,2,0,5,32.0,0,Coronation Park Ward,2,302,39.0,Bonnie Doon Stake 24,127,302.0,5,2
+2023-09-23 11:11:38,North Stake Centre,Edmonton North Stake,2,3,29,60.0,0,Griesbach Ward,2,107,60.0,Edmonton North Stake 3,57,107.0,29,5
+2023-09-23 11:11:39,Gateway Stake Centre,Gateway Stake,1,0,20,20.0,0,Crawford Plains Ward,2,100,20.0,Gateway Stake 12,192,100.0,20,1
+2023-09-23 11:11:53,Londonderry Chapel,Bonnie Doon Stake,2,1,17,30.0,0,Londonderry Ward,2,182,-30.894484412470025,Bonnie Doon Stake 25,127,182.0,17,3
+2023-09-23 11:12:39,Londonderry Chapel,Bonnie Doon Stake,3,0,15,45.0,1,Londonderry Ward,2,200,51.0,Bonnie Doon Stake 26,127,200.0,15,3
+2023-09-23 11:12:49,North Stake Centre,Edmonton North Stake,2,2,24,30.0,0,Griesbach Ward,2,20,30.0,Edmonton North Stake 4,57,20.0,24,4
+2023-09-23 11:13:44,Gateway Stake Centre,Gateway Stake,2,0,26,45.0,0,Crawford Plains Ward,2,150,40.0,Gateway Stake 13,192,150.0,26,2
+2023-09-23 11:14:24,Gateway Stake Centre,Gateway Stake,3,0,24,35.0,0,Silver Berry Ward,2,194,40.0,Gateway Stake 14,192,194.0,24,3
+2023-09-23 11:14:30,Bonnie Doon Stake Centre,Bonnie Doon Stake,3,3,30,60.0,1,Forest Heights Ward,2,100,73.0,Bonnie Doon Stake 27,127,100.0,30,6
+2023-09-23 11:14:32,Gateway Stake Centre,Gateway Stake,2,2,33,50.0,1,Ellerslie Ward,1,207,50.0,Gateway Stake 15,192,207.0,33,4
+2023-09-23 11:14:37,Londonderry Chapel,Bonnie Doon Stake,2,2,11,35.0,0,Londonderry Ward,2,116,-30.894484412470025,Bonnie Doon Stake 28,127,116.0,11,4
+2023-09-23 11:15:10,Bearspaw Chapel,Gateway Stake,2,0,15,45.0,0,Blackmud Creek Ward,2,135,35.0,Gateway Stake 16,192,135.0,15,2
+2023-09-23 11:16:08,Gateway Stake Centre,Gateway Stake,1,0,11,20.0,0,Silver Berry Ward,2,29,13.0,Gateway Stake 17,192,29.0,11,1
+2023-09-23 11:17:13,Riverbend Stake Centre,Riverbend Stake,2,3,22,30.0,0,Rabbit Hill Ward,2,80,40.0,Riverbend Stake 2,73,80.0,22,5
+2023-09-23 11:17:17,North Stake Centre,Edmonton North Stake,2,0,23,100.0,0,Namao Ward,2,160,100.0,Edmonton North Stake 5,57,160.0,23,2
+2023-09-23 11:17:27,Gateway Stake Centre,Gateway Stake,2,0,23,30.0,0,Wainwright Branch,2,137,30.0,Gateway Stake 18,192,137.0,23,2
+2023-09-23 11:18:13,Gateway Stake Centre,Gateway Stake,1,4,16,20.0,1,Lee Ridge Ward,2,147,20.0,Gateway Stake 19,192,147.0,16,5
+2023-09-23 11:19:28,Riverbend Stake Centre,Riverbend Stake,4,2,59,60.0,1,Rabbit Hill Ward,2,236,60.0,Riverbend Stake 3,73,236.0,59,6
+2023-09-23 11:20:02,Gateway Stake Centre,Gateway Stake,1,1,5,17.0,0,Crawford Plains Ward,2,135,17.0,Gateway Stake 20,192,135.0,5,2
+2023-09-23 11:20:34,North Stake Centre,Edmonton North Stake,2,3,35,70.0,0,Griesbach Ward,2,370,65.0,Edmonton North Stake 6,57,370.0,35,5
+2023-09-23 11:21:02,Gateway Stake Centre,Gateway Stake,2,0,15,40.0,0,Crawford Plains Ward,2,115,40.0,Gateway Stake 21,192,115.0,15,2
+2023-09-23 11:21:27,North Stake Centre,Edmonton North Stake,2,2,16,60.0,0,Griesbach Ward,2,200,50.0,Edmonton North Stake 7,57,200.0,16,4
+2023-09-23 11:22:37,Gateway Stake Centre,Gateway Stake,2,0,20,30.0,0,Silver Berry Ward,2,198,30.0,Gateway Stake 22,192,198.0,20,2
+2023-09-23 11:22:37,Bonnie Doon Stake Centre,Bonnie Doon Stake,2,0,25,40.0,0,Connors Hill Ward,2,235,60.0,Bonnie Doon Stake 29,127,235.0,25,2
+2023-09-23 11:23:00,Londonderry Chapel,Bonnie Doon Stake,2,0,20,35.0,0,Londonderry Ward,2,100,40.0,Bonnie Doon Stake 30,127,100.0,20,2
+2023-09-23 11:23:31,Gateway Stake Centre,Gateway Stake,2,1,22,50.0,0,Ellerslie Ward,2,191,50.0,Gateway Stake 23,192,191.0,22,3
+2023-09-23 11:24:00,North Stake Centre,Edmonton North Stake,2,0,9,20.0,0,Griesbach Ward,2,100,20.0,Edmonton North Stake 8,57,100.0,9,2
+2023-09-23 11:24:25,Gateway Stake Centre,Gateway Stake,2,0,31,58.0,0,Silver Berry Ward,2,27,57.0,Gateway Stake 24,192,27.0,31,2
+2023-09-23 11:24:29,Gateway Stake Centre,Gateway Stake,4,0,26,50.0,0,Silver Berry Ward,2,168,50.0,Gateway Stake 25,192,168.0,26,4
+2023-09-23 11:24:46,North Stake Centre,Edmonton North Stake,1,4,42,50.0,0,Namao Ward,2,392,60.0,Edmonton North Stake 9,57,392.0,42,5
+2023-09-23 11:25:07,Bonnie Doon Stake Centre,Bonnie Doon Stake,2,3,18,120.0,0,Forest Heights Ward,2,100,56.0,Bonnie Doon Stake 31,127,100.0,18,5
+2023-09-23 11:25:08,Gateway Stake Centre,Gateway Stake,2,3,21,50.0,1,Crawford Plains Ward,2,317,50.0,Gateway Stake 26,192,317.0,21,5
+2023-09-23 11:25:22,Riverbend Stake Centre,Riverbend Stake,3,0,54,75.0,0,Greenfield Ward,2,212,80.0,Riverbend Stake 4,73,212.0,54,3
+2023-09-23 11:25:29,Gateway Stake Centre,Gateway Stake,1,2,11,30.0,1,Crawford Plains Ward,2,261,33.0,Gateway Stake 27,192,261.0,11,3
+2023-09-23 11:25:49,Gateway Stake Centre,Gateway Stake,2,0,15,40.0,0,Crawford Plains Ward,2,115,40.0,Gateway Stake 28,192,115.0,15,2
+2023-09-23 11:26:50,Coronation Park Chapel,Edmonton North Stake,1,2,31,45.0,1,Stony Plain Ward,2,453,69.0,Edmonton North Stake 10,57,453.0,31,3
+2023-09-23 11:27:33,Gateway Stake Centre,Gateway Stake,2,0,27,40.0,0,Silver Berry Ward,2,23,40.0,Gateway Stake 29,192,23.0,27,2
+2023-09-23 11:27:42,Gateway Stake Centre,Gateway Stake,2,0,12,25.0,0,Crawford Plains Ward,2,110,25.0,Gateway Stake 30,192,110.0,12,2
+2023-09-23 11:27:42,Londonderry Chapel,Bonnie Doon Stake,2,0,34,60.0,1,Clareview Ward,2,32,-30.894484412470025,Bonnie Doon Stake 32,127,32.0,34,2
+2023-09-23 11:27:48,Bearspaw Chapel,Gateway Stake,2,3,37,30.0,1,Lee Ridge Ward,2,144,30.0,Gateway Stake 31,192,144.0,37,5
+2023-09-23 11:27:49,Gateway Stake Centre,Gateway Stake,2,0,26,35.0,0,Ellerslie Ward,2,220,35.0,Gateway Stake 32,192,220.0,26,2
+2023-09-23 11:27:57,Londonderry Chapel,Bonnie Doon Stake,2,0,9,45.0,0,Clareview Ward,2,196,-30.894484412470025,Bonnie Doon Stake 33,127,196.0,9,2
+2023-09-23 11:28:25,Gateway Stake Centre,Gateway Stake,2,0,11,15.0,0,Ellerslie Ward,2,165,15.0,Gateway Stake 33,192,165.0,11,2
+2023-09-23 11:28:28,Bearspaw Chapel,Gateway Stake,1,7,6,60.0,1,Wild Rose Ward,2,315,60.0,Gateway Stake 34,192,315.0,6,8
+2023-09-23 11:29:13,Londonderry Chapel,Bonnie Doon Stake,2,2,43,60.0,1,Londonderry Ward,2,300,55.0,Bonnie Doon Stake 34,127,300.0,43,4
+2023-09-23 11:29:14,Londonderry Chapel,Bonnie Doon Stake,2,1,35,60.0,1,Londonderry Ward,2,250,57.0,Bonnie Doon Stake 35,127,250.0,35,3
+2023-09-23 11:29:17,Bearspaw Chapel,Gateway Stake,2,0,8,60.0,0,Lee Ridge Ward,2,162,60.0,Gateway Stake 35,192,162.0,8,2
+2023-09-23 11:29:41,Coronation Park Chapel,Bonnie Doon Stake,1,1,38,90.0,1,Coronation Park Ward,2,300,-30.894484412470025,Bonnie Doon Stake 36,127,300.0,38,2
+2023-09-23 11:30:31,Riverbend Stake Centre,Riverbend Stake,1,3,10,30.0,0,Woodbend Ward,2,10,30.0,Riverbend Stake 5,73,10.0,10,4
+2023-09-23 11:30:44,Gateway Stake Centre,Gateway Stake,2,3,20,50.0,0,Ellerslie Ward,2,219,50.0,Gateway Stake 36,192,219.0,20,5
+2023-09-23 11:30:53,Riverbend Stake Centre,Riverbend Stake,3,0,60,90.0,0,Terwillegar Park Ward,2,250,90.0,Riverbend Stake 6,73,250.0,60,3
+2023-09-23 11:30:57,Londonderry Chapel,Bonnie Doon Stake,1,2,6,45.0,0,Clareview Ward,2,150,-30.894484412470025,Bonnie Doon Stake 37,127,150.0,6,3
+2023-09-23 11:31:20,Londonderry Chapel,Bonnie Doon Stake,2,0,45,75.0,0,Londonderry Ward,2,300,75.0,Bonnie Doon Stake 38,127,300.0,45,2
+2023-09-23 11:31:51,Gateway Stake Centre,Gateway Stake,2,0,24,40.0,0,Silver Berry Ward,2,167,50.0,Gateway Stake 37,192,167.0,24,2
+2023-09-23 11:31:53,Londonderry Chapel,Bonnie Doon Stake,2,3,35,60.0,0,Londonderry Ward,2,180,60.0,Bonnie Doon Stake 39,127,180.0,35,5
+2023-09-23 11:32:09,Bearspaw Chapel,Bonnie Doon Stake,2,0,20,45.0,0,Southgate Ward,2,95,89.0,Bonnie Doon Stake 40,127,95.0,20,2
+2023-09-23 11:32:25,Gateway Stake Centre,Gateway Stake,7,7,46,60.0,0,Rio Vista Ward,2,219,60.0,Gateway Stake 38,192,219.0,46,14
+2023-09-23 11:32:48,Gateway Stake Centre,Gateway Stake,1,1,15,55.0,1,Crawford Plains Ward,2,236,55.0,Gateway Stake 39,192,236.0,15,2
+2023-09-23 11:32:52,Riverbend Stake Centre,Riverbend Stake,2,0,20,45.0,0,Rutherford Ward,2,13,45.0,Riverbend Stake 7,73,13.0,20,2
+2023-09-23 11:33:06,Bearspaw Chapel,Gateway Stake,46,0,15,45.0,0,Lee Ridge Ward,2,15,45.0,Gateway Stake 40,192,15.0,15,46
+2023-09-23 11:33:12,Londonderry Chapel,Bonnie Doon Stake,2,2,19,45.0,0,Londonderry Ward,2,198,35.0,Bonnie Doon Stake 41,127,198.0,19,4
+2023-09-23 11:33:17,Coronation Park Chapel,Edmonton North Stake,1,0,30,47.0,1,Stony Plain Ward,2,155,-30.894484412470025,Edmonton North Stake 11,57,155.0,30,1
+2023-09-23 11:33:18,Gateway Stake Centre,Gateway Stake,2,0,35,70.0,0,Crawford Plains Ward,2,134,67.0,Gateway Stake 41,192,134.0,35,2
+2023-09-23 11:34:06,Londonderry Chapel,Bonnie Doon Stake,2,0,4,10.0,0,Londonderry Ward,2,196,-30.894484412470025,Bonnie Doon Stake 42,127,196.0,4,2
+2023-09-23 11:34:13,North Stake Centre,Edmonton North Stake,2,4,23,50.0,0,Griesbach Ward,2,203,50.0,Edmonton North Stake 12,57,203.0,23,6
+2023-09-23 11:34:14,Londonderry Chapel,Bonnie Doon Stake,2,0,12,50.0,0,Clareview Ward,2,180,63.0,Bonnie Doon Stake 43,127,180.0,12,2
+2023-09-23 11:35:15,Londonderry Chapel,Bonnie Doon Stake,1,3,7,30.0,0,Londonderry Ward,2,7,30.0,Bonnie Doon Stake 44,127,7.0,7,4
+2023-09-23 11:35:17,Riverbend Stake Centre,Riverbend Stake,2,0,40,60.0,0,Greenfield Ward,2,20,65.0,Riverbend Stake 8,73,20.0,40,2
+2023-09-23 11:35:32,Coronation Park Chapel,Bonnie Doon Stake,2,2,72,45.0,1,Coronation Park Ward,3,63,81.0,Bonnie Doon Stake 45,127,63.0,72,4
+2023-09-23 11:35:32,North Stake Centre,Edmonton North Stake,1,2,22,60.0,0,Griesbach Ward,2,150,45.0,Edmonton North Stake 13,57,150.0,22,3
+2023-09-23 11:35:54,Bonnie Doon Stake Centre,Bonnie Doon Stake,3,1,40,60.0,0,Connors Hill Ward,2,160,44.0,Bonnie Doon Stake 46,127,160.0,40,4
+2023-09-23 11:36:12,Gateway Stake Centre,Gateway Stake,2,3,20,60.0,1,Crawford Plains Ward,2,194,60.0,Gateway Stake 42,192,194.0,20,5
+2023-09-23 11:37:24,Bonnie Doon Stake Centre,Bonnie Doon Stake,1,0,33,45.0,1,Forest Heights Ward,2,130,45.0,Bonnie Doon Stake 47,127,130.0,33,1
+2023-09-23 11:38:06,Riverbend Stake Centre,Riverbend Stake,1,2,18,40.0,0,Rutherford Ward,2,14,40.0,Riverbend Stake 9,73,14.0,18,3
+2023-09-23 11:38:32,Gateway Stake Centre,Gateway Stake,2,0,17,40.0,0,Silver Berry Ward,2,170,40.0,Gateway Stake 43,192,170.0,17,2
+2023-09-23 11:38:37,Riverbend Stake Centre,Riverbend Stake,2,1,12,15.0,0,Rutherford Ward,2,12,40.0,Riverbend Stake 10,73,12.0,12,3
+2023-09-23 11:38:50,North Stake Centre,Edmonton North Stake,3,0,17,45.0,0,Griesbach Ward,2,13,60.0,Edmonton North Stake 14,57,13.0,17,3
+2023-09-23 11:38:55,Gateway Stake Centre,Gateway Stake,2,0,37,15.0,1,Crawford Plains Ward,4,130,54.0,Gateway Stake 44,192,130.0,37,2
+2023-09-23 11:39:12,North Stake Centre,Edmonton North Stake,2,0,12,100.0,0,Namao Ward,2,175,95.0,Edmonton North Stake 15,57,175.0,12,2
+2023-09-23 11:39:29,Riverbend Stake Centre,Riverbend Stake,2,2,10,10.0,0,Rabbit Hill Ward,2,70,28.0,Riverbend Stake 11,73,70.0,10,4
+2023-09-23 11:39:36,Riverbend Stake Centre,Riverbend Stake,1,3,50,60.0,0,Terwillegar Park Ward,2,38,65.0,Riverbend Stake 12,73,38.0,50,4
+2023-09-23 11:41:02,Bonnie Doon Stake Centre,Bonnie Doon Stake,2,0,10,30.0,0,Connors Hill Ward,2,136,30.0,Bonnie Doon Stake 48,127,136.0,10,2
+2023-09-23 11:41:11,Riverbend Stake Centre,Riverbend Stake,4,0,23,45.0,0,Greenfield Ward,2,192,60.0,Riverbend Stake 13,73,192.0,23,4
+2023-09-23 11:41:30,North Stake Centre,Edmonton North Stake,1,3,15,60.0,0,Griesbach Ward,2,14,60.0,Edmonton North Stake 16,57,14.0,15,4
+2023-09-23 11:41:30,North Stake Centre,Edmonton North Stake,1,3,7,40.0,0,Griesbach Ward,2,90,40.0,Edmonton North Stake 17,57,90.0,7,4
+2023-09-23 11:41:58,Gateway Stake Centre,Gateway Stake,1,0,16,30.0,0,Crawford Plains Ward,2,135,30.0,Gateway Stake 45,192,135.0,16,1
+2023-09-23 11:42:17,Gateway Stake Centre,Gateway Stake,1,2,28,35.0,0,Ellerslie Ward,2,203,35.0,Gateway Stake 46,192,203.0,28,3
+2023-09-23 11:42:21,Londonderry Chapel,Bonnie Doon Stake,1,2,12,20.0,0,Londonderry Ward,2,110,25.0,Bonnie Doon Stake 49,127,110.0,12,3
+2023-09-23 11:42:33,Bonnie Doon Stake Centre,Bonnie Doon Stake,2,0,25,60.0,0,Connors Hill Ward,2,249,60.0,Bonnie Doon Stake 50,127,249.0,25,2
+2023-09-23 11:42:43,Bearspaw Chapel,Gateway Stake,19,2,15,55.0,0,Lee Ridge Ward,2,158,70.0,Gateway Stake 47,192,158.0,15,21
+2023-09-23 11:43:10,Bearspaw Chapel,Gateway Stake,7,0,17,40.0,0,Lee Ridge Ward,2,170,42.0,Gateway Stake 48,192,170.0,17,7
+2023-09-23 11:43:36,Gateway Stake Centre,Gateway Stake,2,2,9,20.0,0,Crawford Plains Ward,2,138,20.0,Gateway Stake 49,192,138.0,9,4
+2023-09-23 11:43:38,Riverbend Stake Centre,Riverbend Stake,4,1,15,15.0,0,Rabbit Hill Ward,2,80,15.0,Riverbend Stake 14,73,80.0,15,5
+2023-09-23 11:44:15,Bearspaw Chapel,Gateway Stake,3,3,55,47.0,0,Blackmud Creek Ward,2,165,47.0,Gateway Stake 50,192,165.0,55,6
+2023-09-23 11:44:50,Gateway Stake Centre,Gateway Stake,3,2,30,40.0,1,Crawford Plains Ward,2,256,40.0,Gateway Stake 51,192,256.0,30,5
+2023-09-23 11:44:51,Gateway Stake Centre,Gateway Stake,3,1,40,100.0,1,Silver Berry Ward,2,419,100.0,Gateway Stake 52,192,419.0,40,4
+2023-09-23 11:45:08,North Stake Centre,Edmonton North Stake,2,2,15,60.0,0,Griesbach Ward,2,106,50.0,Edmonton North Stake 18,57,106.0,15,4
+2023-09-23 11:45:10,Coronation Park Chapel,Bonnie Doon Stake,2,2,35,75.0,1,Coronation Park Ward,2,144,74.0,Bonnie Doon Stake 51,127,144.0,35,4
+2023-09-23 11:45:19,Gateway Stake Centre,Gateway Stake,2,1,11,60.0,1,Silver Berry Ward,2,11,60.0,Gateway Stake 53,192,11.0,11,3
+2023-09-23 11:45:26,Bonnie Doon Stake Centre,Bonnie Doon Stake,2,0,16,40.0,0,Forest Heights Ward,2,125,40.0,Bonnie Doon Stake 52,127,125.0,16,2
+2023-09-23 11:45:27,Gateway Stake Centre,Gateway Stake,1,2,32,35.0,0,Lee Ridge Ward,2,173,35.0,Gateway Stake 54,192,173.0,32,3
+2023-09-23 11:45:51,North Stake Centre,Edmonton North Stake,2,0,18,55.0,0,Griesbach Ward,2,90,55.0,Edmonton North Stake 19,57,90.0,18,2
+2023-09-23 11:46:39,Bonnie Doon Stake Centre,Bonnie Doon Stake,2,4,32,45.0,0,Forest Heights Ward,2,200,73.0,Bonnie Doon Stake 53,127,200.0,32,6
+2023-09-23 11:46:45,Coronation Park Chapel,Bonnie Doon Stake,3,0,18,45.0,0,Coronation Park Ward,2,143,45.0,Bonnie Doon Stake 54,127,143.0,18,3
+2023-09-23 11:47:14,Riverbend Stake Centre,Riverbend Stake,2,0,44,70.0,1,Terwillegar Park Ward,1,285,75.0,Riverbend Stake 15,73,285.0,44,2
+2023-09-23 11:47:25,Gateway Stake Centre,Gateway Stake,2,3,30,60.0,1,Crawford Plains Ward,2,23,75.0,Gateway Stake 55,192,23.0,30,5
+2023-09-23 11:47:26,Gateway Stake Centre,Gateway Stake,3,2,30,40.0,0,Ellerslie Ward,2,210,45.0,Gateway Stake 56,192,210.0,30,5
+2023-09-23 11:47:31,Bearspaw Chapel,Gateway Stake,2,0,35,60.0,0,Blackmud Creek Ward,2,148,120.0,Gateway Stake 57,192,148.0,35,2
+2023-09-23 11:47:40,Riverbend Stake Centre,Riverbend Stake,2,0,44,60.0,1,Rutherford Ward,2,446,60.0,Riverbend Stake 16,73,446.0,44,2
+2023-09-23 11:47:47,Londonderry Chapel,Bonnie Doon Stake,1,2,35,45.0,0,Londonderry Ward,2,200,-30.894484412470025,Bonnie Doon Stake 55,127,200.0,35,3
+2023-09-23 11:48:45,Coronation Park Chapel,Bonnie Doon Stake,3,1,117,45.0,1,Coronation Park Ward,4,403,90.0,Bonnie Doon Stake 56,127,403.0,117,4
+2023-09-23 11:48:55,North Stake Centre,Edmonton North Stake,2,0,30,105.0,1,Griesbach Ward,3,356,105.0,Edmonton North Stake 20,57,356.0,30,2
+2023-09-23 11:49:00,Londonderry Chapel,Bonnie Doon Stake,2,2,40,70.0,1,Clareview Ward,2,200,70.0,Bonnie Doon Stake 57,127,200.0,40,4
+2023-09-23 11:49:10,Londonderry Chapel,Bonnie Doon Stake,2,0,3,3.0,0,Clareview Ward,2,196,-30.894484412470025,Bonnie Doon Stake 58,127,196.0,3,2
+2023-09-23 11:49:31,Gateway Stake Centre,Gateway Stake,2,0,30,55.0,0,Silver Berry Ward,2,174,55.0,Gateway Stake 58,192,174.0,30,2
+2023-09-23 11:49:55,Bearspaw Chapel,Gateway Stake,4,3,26,30.0,0,Lee Ridge Ward,2,148,36.0,Gateway Stake 59,192,148.0,26,7
+2023-09-23 11:50:20,Riverbend Stake Centre,Riverbend Stake,1,1,24,90.0,0,Terwillegar Park Ward,2,170,90.0,Riverbend Stake 17,73,170.0,24,2
+2023-09-23 11:50:31,Riverbend Stake Centre,Riverbend Stake,2,0,70,90.0,1,Terwillegar Park Ward,1,312,108.0,Riverbend Stake 18,73,312.0,70,2
+2023-09-23 11:50:39,Bonnie Doon Stake Centre,Bonnie Doon Stake,2,3,20,60.0,0,Forest Heights Ward,2,120,60.0,Bonnie Doon Stake 59,127,120.0,20,5
+2023-09-23 11:50:42,Gateway Stake Centre,Gateway Stake,1,0,26,40.0,1,Ellerslie Ward,2,191,36.0,Gateway Stake 60,192,191.0,26,1
+2023-09-23 11:50:53,Gateway Stake Centre,Gateway Stake,2,1,23,32.0,1,Crawford Plains Ward,2,195,32.0,Gateway Stake 61,192,195.0,23,3
+2023-09-23 11:50:57,Londonderry Chapel,Bonnie Doon Stake,2,0,15,30.0,0,Clareview Ward,2,121,38.0,Bonnie Doon Stake 60,127,121.0,15,2
+2023-09-23 11:50:57,Gateway Stake Centre,Gateway Stake,2,3,13,15.0,0,Crawford Plains Ward,2,115,30.0,Gateway Stake 62,192,115.0,13,5
+2023-09-23 11:51:01,Gateway Stake Centre,Gateway Stake,1,2,20,50.0,1,Ellerslie Ward,2,260,50.0,Gateway Stake 63,192,260.0,20,3
+2023-09-23 11:51:03,Bonnie Doon Stake Centre,Bonnie Doon Stake,1,1,18,45.0,0,Forest Heights Ward,2,125,36.0,Bonnie Doon Stake 61,127,125.0,18,2
+2023-09-23 11:51:04,Gateway Stake Centre,Gateway Stake,2,1,36,40.0,0,Lee Ridge Ward,2,145,44.0,Gateway Stake 64,192,145.0,36,3
+2023-09-23 11:52:14,Bearspaw Chapel,Bonnie Doon Stake,5,1,6,15.0,0,Southgate Ward,2,40,60.0,Bonnie Doon Stake 62,127,40.0,6,6
+2023-09-23 11:52:21,Gateway Stake Centre,Gateway Stake,2,2,35,60.0,0,Ellerslie Ward,2,214,60.0,Gateway Stake 65,192,214.0,35,4
+2023-09-23 11:52:29,Gateway Stake Centre,Gateway Stake,2,0,6,15.0,0,Crawford Plains Ward,2,168,15.0,Gateway Stake 66,192,168.0,6,2
+2023-09-23 11:52:34,North Stake Centre,Edmonton North Stake,3,2,43,60.0,1,Griesbach Ward,2,40,60.0,Edmonton North Stake 21,57,40.0,43,5
+2023-09-23 11:52:36,Riverbend Stake Centre,Riverbend Stake,3,1,19,40.0,0,Terwillegar Park Ward,2,150,50.0,Riverbend Stake 19,73,150.0,19,4
+2023-09-23 11:52:53,North Stake Centre,Edmonton North Stake,2,1,10,52.0,0,Griesbach Ward,2,120,52.0,Edmonton North Stake 22,57,120.0,10,3
+2023-09-23 11:53:00,Riverbend Stake Centre,Riverbend Stake,2,1,48,44.0,1,Greenfield Ward,2,208,44.0,Riverbend Stake 20,73,208.0,48,3
+2023-09-23 11:53:08,Bonnie Doon Stake Centre,Bonnie Doon Stake,4,0,42,60.0,1,Forest Heights Ward,2,194,96.0,Bonnie Doon Stake 63,127,194.0,42,4
+2023-09-23 11:53:13,Riverbend Stake Centre,Riverbend Stake,1,2,40,30.0,0,Woodbend Ward,2,220,30.0,Riverbend Stake 21,73,220.0,40,3
+2023-09-23 11:53:24,Londonderry Chapel,Bonnie Doon Stake,1,1,30,60.0,0,Londonderry Ward,2,100,-30.894484412470025,Bonnie Doon Stake 64,127,100.0,30,2
+2023-09-23 11:54:28,Coronation Park Chapel,Bonnie Doon Stake,2,1,55,110.0,1,Coronation Park Ward,2,196,98.0,Bonnie Doon Stake 65,127,196.0,55,3
+2023-09-23 11:54:49,Bonnie Doon Stake Centre,Bonnie Doon Stake,1,1,40,150.0,1,Connors Hill Ward,2,180,95.0,Bonnie Doon Stake 66,127,180.0,40,2
+2023-09-23 11:54:54,Riverbend Stake Centre,Riverbend Stake,2,0,50,270.0,1,Greenfield Ward,1,210,83.0,Riverbend Stake 22,73,210.0,50,2
+2023-09-23 11:55:46,Bearspaw Chapel,Gateway Stake,6,5,48,49.0,0,Blackmud Creek Ward,2,162,42.0,Gateway Stake 67,192,162.0,48,11
+2023-09-23 11:55:50,Bonnie Doon Stake Centre,Bonnie Doon Stake,2,2,17,51.0,0,Forest Heights Ward,2,75,54.0,Bonnie Doon Stake 67,127,75.0,17,4
+2023-09-23 11:55:52,Riverbend Stake Centre,Riverbend Stake,2,2,65,90.0,1,Rutherford Ward,2,650,70.0,Riverbend Stake 23,73,650.0,65,4
+2023-09-23 11:56:02,Bearspaw Chapel,Gateway Stake,2,2,15,60.0,0,Blackmud Creek Ward,2,100,75.0,Gateway Stake 68,192,100.0,15,4
+2023-09-23 11:56:12,Gateway Stake Centre,Gateway Stake,2,3,31,50.0,0,Silver Berry Ward,2,180,50.0,Gateway Stake 69,192,180.0,31,5
+2023-09-23 11:56:49,Londonderry Chapel,Bonnie Doon Stake,2,0,6,35.0,0,Clareview Ward,2,110,65.0,Bonnie Doon Stake 68,127,110.0,6,2
+2023-09-23 11:56:50,Londonderry Chapel,Bonnie Doon Stake,1,0,30,75.0,1,Londonderry Ward,2,250,-30.894484412470025,Bonnie Doon Stake 69,127,250.0,30,1
+2023-09-23 11:57:15,Coronation Park Chapel,Bonnie Doon Stake,4,0,37,45.0,1,Coronation Park Ward,2,196,100.0,Bonnie Doon Stake 70,127,196.0,37,4
+2023-09-23 11:57:29,Bearspaw Chapel,Bonnie Doon Stake,2,1,10,30.0,0,Strathcona Married Student Ward,2,90,45.0,Bonnie Doon Stake 71,127,90.0,10,3
+2023-09-23 11:57:33,Londonderry Chapel,Bonnie Doon Stake,4,0,17,30.0,0,Londonderry Ward,2,17,-30.894484412470025,Bonnie Doon Stake 72,127,17.0,17,4
+2023-09-23 11:57:41,Gateway Stake Centre,Gateway Stake,2,2,34,28.0,0,Ellerslie Ward,2,203,28.0,Gateway Stake 70,192,203.0,34,4
+2023-09-23 11:57:50,Riverbend Stake Centre,Riverbend Stake,1,1,15,15.0,0,Woodbend Ward,2,8,15.0,Riverbend Stake 24,73,8.0,15,2
+2023-09-23 11:58:04,Gateway Stake Centre,Gateway Stake,24,0,14,24.0,1,Crawford Plains Ward,2,146,24.0,Gateway Stake 71,192,146.0,14,24
+2023-09-23 11:58:26,Riverbend Stake Centre,Riverbend Stake,3,0,52,80.0,1,Rabbit Hill Ward,2,313,67.0,Riverbend Stake 25,73,313.0,52,3
+2023-09-23 11:58:31,Gateway Stake Centre,Gateway Stake,2,3,50,90.0,1,Crawford Plains Ward,3,460,90.0,Gateway Stake 72,192,460.0,50,5
+2023-09-23 11:58:43,Coronation Park Chapel,Bonnie Doon Stake,2,2,37,57.0,0,Coronation Park Ward,2,196,57.0,Bonnie Doon Stake 73,127,196.0,37,4
+2023-09-23 11:58:44,North Stake Centre,Edmonton North Stake,2,0,23,30.0,0,Griesbach Ward,2,20,30.0,Edmonton North Stake 23,57,20.0,23,2
+2023-09-23 11:58:54,Bonnie Doon Stake Centre,Bonnie Doon Stake,2,3,28,57.0,1,Forest Heights Ward,2,200,57.0,Bonnie Doon Stake 74,127,200.0,28,5
+2023-09-23 11:59:08,North Stake Centre,Edmonton North Stake,2,2,19,30.0,0,Griesbach Ward,2,100,30.0,Edmonton North Stake 24,57,100.0,19,4
+2023-09-23 11:59:28,Riverbend Stake Centre,Riverbend Stake,2,0,15,40.0,0,Woodbend Ward,2,80,88.0,Riverbend Stake 26,73,80.0,15,2
+2023-09-23 11:59:44,Riverbend Stake Centre,Riverbend Stake,2,3,27,60.0,0,Greenfield Ward,2,21,60.0,Riverbend Stake 27,73,21.0,27,5
+2023-09-23 11:59:57,Bearspaw Chapel,Bonnie Doon Stake,2,2,9,60.0,0,Southgate Ward,2,150,60.0,Bonnie Doon Stake 75,127,150.0,9,4
+2023-09-23 12:00:01,Gateway Stake Centre,Gateway Stake,2,3,30,35.0,0,Lee Ridge Ward,2,30,35.0,Gateway Stake 73,192,30.0,30,5
+2023-09-23 12:00:11,Riverbend Stake Centre,Riverbend Stake,1,5,70,60.0,0,Woodbend Ward,2,350,60.0,Riverbend Stake 28,73,350.0,70,6
+2023-09-23 12:00:20,Bearspaw Chapel,Gateway Stake,2,20,20,60.0,0,Blackmud Creek Ward,2,147,60.0,Gateway Stake 74,192,147.0,20,22
+2023-09-23 12:00:28,Gateway Stake Centre,Gateway Stake,2,4,14,30.0,0,Ellerslie Ward,2,190,31.0,Gateway Stake 75,192,190.0,14,6
+2023-09-23 12:00:59,Gateway Stake Centre,Gateway Stake,2,0,38,90.0,0,Silver Berry Ward,2,243,90.0,Gateway Stake 76,192,243.0,38,2
+2023-09-23 12:01:01,Bearspaw Chapel,YSA Stake,1,2,50,60.0,1,Windsor Park YSA Ward,2,110,58.0,YSA Stake 1,1,110.0,50,3
+2023-09-23 12:01:01,Coronation Park Chapel,Bonnie Doon Stake,1,1,15,60.0,0,Coronation Park Ward,2,100,-660.0,Bonnie Doon Stake 76,127,100.0,15,2
+2023-09-23 12:01:07,Gateway Stake Centre,Gateway Stake,2,0,6,18.5,1,Crawford Plains Ward,2,136,18.0,Gateway Stake 77,192,136.0,6,2
+2023-09-23 12:01:35,Riverbend Stake Centre,Riverbend Stake,2,1,35,30.0,0,Woodbend Ward,2,179,65.0,Riverbend Stake 29,73,179.0,35,3
+2023-09-23 12:01:42,Riverbend Stake Centre,Riverbend Stake,2,0,8,20.0,0,Greenfield Ward,2,150,30.0,Riverbend Stake 30,73,150.0,8,2
+2023-09-23 12:01:48,Gateway Stake Centre,Gateway Stake,2,4,25,34.0,0,Ellerslie Ward,2,198,34.0,Gateway Stake 78,192,198.0,25,6
+2023-09-23 12:02:01,Londonderry Chapel,Bonnie Doon Stake,1,0,38,90.0,1,Clareview Ward,2,300,114.0,Bonnie Doon Stake 77,127,300.0,38,1
+2023-09-23 12:02:07,Londonderry Chapel,Bonnie Doon Stake,2,0,28,45.0,0,Londonderry Ward,2,185,-30.894484412470025,Bonnie Doon Stake 78,127,185.0,28,2
+2023-09-23 12:02:43,North Stake Centre,Edmonton North Stake,2,1,21,45.0,1,Griesbach Ward,2,150,45.0,Edmonton North Stake 25,57,150.0,21,3
+2023-09-23 12:02:48,Riverbend Stake Centre,Riverbend Stake,1,1,30,45.0,0,Rabbit Hill Ward,2,158,40.0,Riverbend Stake 31,73,158.0,30,2
+2023-09-23 12:02:50,Riverbend Stake Centre,Riverbend Stake,2,1,46,60.0,0,Greenfield Ward,2,220,60.0,Riverbend Stake 32,73,220.0,46,3
+2023-09-23 12:02:57,Gateway Stake Centre,Gateway Stake,2,1,25,45.0,0,Silver Berry Ward,2,230,45.0,Gateway Stake 79,192,230.0,25,3
+2023-09-23 12:02:58,Gateway Stake Centre,Gateway Stake,2,1,40,60.0,1,Ellerslie Ward,1,228,53.0,Gateway Stake 80,192,228.0,40,3
+2023-09-23 12:03:03,Bearspaw Chapel,Bonnie Doon Stake,1,2,31,60.0,0,Southgate Ward,2,143,55.0,Bonnie Doon Stake 79,127,143.0,31,3
+2023-09-23 12:03:20,Bearspaw Chapel,Gateway Stake,2,4,24,40.0,0,Lee Ridge Ward,2,169,40.0,Gateway Stake 81,192,169.0,24,6
+2023-09-23 12:03:31,Gateway Stake Centre,Gateway Stake,2,0,8,30.0,0,Crawford Plains Ward,2,144,30.0,Gateway Stake 82,192,144.0,8,2
+2023-09-23 12:03:51,North Stake Centre,Edmonton North Stake,2,1,17,60.0,0,Griesbach Ward,2,50,75.0,Edmonton North Stake 26,57,50.0,17,3
+2023-09-23 12:03:51,Gateway Stake Centre,Gateway Stake,2,4,40,37.0,0,Ellerslie Ward,2,207,-30.894484412470025,Gateway Stake 83,192,207.0,40,6
+2023-09-23 12:03:57,Riverbend Stake Centre,Riverbend Stake,2,0,44,80.0,0,Greenfield Ward,2,200,80.0,Riverbend Stake 33,73,200.0,44,2
+2023-09-23 12:04:02,Bonnie Doon Stake Centre,Bonnie Doon Stake,1,0,19,60.0,1,Connors Hill Ward,2,280,-657.0,Bonnie Doon Stake 80,127,280.0,19,1
+2023-09-23 12:04:20,Gateway Stake Centre,Gateway Stake,2,0,25,30.0,0,Crawford Plains Ward,2,150,10.0,Gateway Stake 84,192,150.0,25,2
+2023-09-23 12:04:53,North Stake Centre,Edmonton North Stake,1,3,30,75.0,0,Griesbach Ward,2,100,-645.0,Edmonton North Stake 27,57,100.0,30,4
+2023-09-23 12:04:58,Bearspaw Chapel,Gateway Stake,4,0,24,40.0,0,Lee Ridge Ward,2,155,45.0,Gateway Stake 85,192,155.0,24,4
+2023-09-23 12:05:20,Riverbend Stake Centre,Riverbend Stake,2,4,45,120.0,0,Greenfield Ward,2,45,109.0,Riverbend Stake 34,73,45.0,45,6
+2023-09-23 12:05:24,Riverbend Stake Centre,Riverbend Stake,2,1,80,70.0,1,Rabbit Hill Ward,2,400,100.0,Riverbend Stake 35,73,400.0,80,3
+2023-09-23 12:05:51,Gateway Stake Centre,Gateway Stake,2,0,24,60.0,0,Silver Berry Ward,2,220,-660.0,Gateway Stake 86,192,220.0,24,2
+2023-09-23 12:05:56,Gateway Stake Centre,Gateway Stake,1,2,32,60.0,1,Crawford Plains Ward,2,215,-660.0,Gateway Stake 87,192,215.0,32,3
+2023-09-23 12:07:03,North Stake Centre,Edmonton North Stake,1,0,5,30.0,0,Griesbach Ward,2,40,30.0,Edmonton North Stake 28,57,40.0,5,1
+2023-09-23 12:07:12,Londonderry Chapel,Bonnie Doon Stake,2,4,22,20.0,0,Clareview Ward,2,196,-687.0,Bonnie Doon Stake 81,127,196.0,22,6
+2023-09-23 12:07:12,Riverbend Stake Centre,Riverbend Stake,3,0,14,30.0,0,Rutherford Ward,2,159,40.0,Riverbend Stake 36,73,159.0,14,3
+2023-09-23 12:07:13,Bonnie Doon Stake Centre,Bonnie Doon Stake,2,0,14,45.0,0,Strathcona Married Student Ward,2,110,35.0,Bonnie Doon Stake 82,127,110.0,14,2
+2023-09-23 12:07:20,Riverbend Stake Centre,Riverbend Stake,3,1,34,60.0,0,Terwillegar Park Ward,2,150,96.0,Riverbend Stake 37,73,150.0,34,4
+2023-09-23 12:07:21,Riverbend Stake Centre,Riverbend Stake,2,0,12,35.0,0,Rutherford Ward,2,159,25.0,Riverbend Stake 38,73,159.0,12,2
+2023-09-23 12:07:40,North Stake Centre,Edmonton North Stake,1,4,22,60.0,0,Namao Ward,2,236,90.0,Edmonton North Stake 29,57,236.0,22,5
+2023-09-23 12:08:09,Riverbend Stake Centre,Riverbend Stake,2,2,35,30.0,0,Rutherford Ward,2,207,30.0,Riverbend Stake 39,73,207.0,35,4
+2023-09-23 12:08:36,North Stake Centre,Edmonton North Stake,1,5,16,30.0,0,Griesbach Ward,2,120,30.0,Edmonton North Stake 30,57,120.0,16,6
+2023-09-23 12:08:55,Londonderry Chapel,Bonnie Doon Stake,1,4,40,60.0,1,Clareview Ward,2,400,-30.894484412470025,Bonnie Doon Stake 83,127,400.0,40,5
+2023-09-23 12:09:14,Bearspaw Chapel,Bonnie Doon Stake,4,0,8,45.0,0,Southgate Ward,2,196,60.0,Bonnie Doon Stake 84,127,196.0,8,4
+2023-09-23 12:09:18,Gateway Stake Centre,Gateway Stake,2,3,23,58.0,0,Lee Ridge Ward,2,23,58.0,Gateway Stake 88,192,23.0,23,5
+2023-09-23 12:09:19,Bonnie Doon Stake Centre,Bonnie Doon Stake,1,3,11,30.0,1,Forest Heights Ward,2,170,-690.0,Bonnie Doon Stake 85,127,170.0,11,4
+2023-09-23 12:09:23,Gateway Stake Centre,Gateway Stake,3,1,28,30.0,0,Crawford Plains Ward,2,123,30.0,Gateway Stake 89,192,123.0,28,4
+2023-09-23 12:09:35,Riverbend Stake Centre,Riverbend Stake,4,0,25,60.0,0,Terwillegar Park Ward,2,100,-660.0,Riverbend Stake 40,73,100.0,25,4
+2023-09-23 12:10:09,North Stake Centre,Edmonton North Stake,3,0,16,30.0,0,Griesbach Ward,2,75,30.0,Edmonton North Stake 31,57,75.0,16,3
+2023-09-23 12:10:15,Riverbend Stake Centre,Riverbend Stake,2,2,30,25.0,0,Greenfield Ward,2,196,30.0,Riverbend Stake 41,73,196.0,30,4
+2023-09-23 12:10:22,Gateway Stake Centre,Gateway Stake,1,3,32,52.0,1,Crawford Plains Ward,1,200,52.0,Gateway Stake 90,192,200.0,32,4
+2023-09-23 12:10:27,Gateway Stake Centre,Gateway Stake,1,1,120,70.0,1,Crawford Plains Ward,6,900,-643.0,Gateway Stake 91,192,900.0,120,2
+2023-09-23 12:11:24,Gateway Stake Centre,Gateway Stake,2,3,40,90.0,1,Crawford Plains Ward,3,380,90.0,Gateway Stake 92,192,380.0,40,5
+2023-09-23 12:11:42,Coronation Park Chapel,Bonnie Doon Stake,2,0,44,60.0,1,Coronation Park Ward,2,266,60.0,Bonnie Doon Stake 86,127,266.0,44,2
+2023-09-23 12:12:12,Londonderry Chapel,Bonnie Doon Stake,2,0,16,60.0,0,Clareview Ward,2,100,-655.0,Bonnie Doon Stake 87,127,100.0,16,2
+2023-09-23 12:12:28,Bearspaw Chapel,Gateway Stake,2,1,20,50.0,0,Lee Ridge Ward,2,158,-675.0,Gateway Stake 93,192,158.0,20,3
+2023-09-23 12:12:28,Gateway Stake Centre,Gateway Stake,1,1,25,35.0,0,Crawford Plains Ward,2,26,-685.0,Gateway Stake 94,192,26.0,25,2
+2023-09-23 12:12:42,Londonderry Chapel,Bonnie Doon Stake,2,2,39,60.0,0,Londonderry Ward,2,196,-30.894484412470025,Bonnie Doon Stake 88,127,196.0,39,4
+2023-09-23 12:12:51,Gateway Stake Centre,Gateway Stake,2,1,44,60.0,1,Lee Ridge Ward,1,168,-649.0,Gateway Stake 95,192,168.0,44,3
+2023-09-23 12:13:19,Gateway Stake Centre,Gateway Stake,2,3,24,60.0,0,Crawford Plains Ward,2,128,60.0,Gateway Stake 96,192,128.0,24,5
+2023-09-23 12:13:23,Bearspaw Chapel,Bonnie Doon Stake,2,1,25,45.0,1,Southgate Ward,2,256,50.0,Bonnie Doon Stake 89,127,256.0,25,3
+2023-09-23 12:13:27,Bearspaw Chapel,Gateway Stake,2,0,44,75.0,0,Lee Ridge Ward,2,125,85.0,Gateway Stake 97,192,125.0,44,2
+2023-09-23 12:14:16,Bearspaw Chapel,Gateway Stake,2,3,22,35.0,1,Lee Ridge Ward,2,207,32.0,Gateway Stake 98,192,207.0,22,5
+2023-09-23 12:14:19,Gateway Stake Centre,Gateway Stake,2,0,20,55.0,0,Lee Ridge Ward,2,25,55.0,Gateway Stake 99,192,25.0,20,2
+2023-09-23 12:15:03,Gateway Stake Centre,Gateway Stake,2,2,67,100.0,1,Ellerslie Ward,3,501,100.0,Gateway Stake 100,192,501.0,67,4
+2023-09-23 12:15:21,Bearspaw Chapel,Bonnie Doon Stake,2,5,15,25.0,0,Southgate Ward,2,115,-636.0,Bonnie Doon Stake 90,127,115.0,15,7
+2023-09-23 12:15:41,Gateway Stake Centre,Gateway Stake,2,0,36,60.0,1,Crawford Plains Ward,2,140,-647.0,Gateway Stake 101,192,140.0,36,2
+2023-09-23 12:15:42,Gateway Stake Centre,Gateway Stake,2,1,16,30.0,0,Crawford Plains Ward,2,114,21.0,Gateway Stake 102,192,114.0,16,3
+2023-09-23 12:16:04,Gateway Stake Centre,Gateway Stake,3,1,18,23.0,0,Ellerslie Ward,2,180,23.0,Gateway Stake 103,192,180.0,18,4
+2023-09-23 12:16:40,Gateway Stake Centre,Gateway Stake,2,0,27,40.0,1,Crawford Plains Ward,2,267,40.0,Gateway Stake 104,192,267.0,27,2
+2023-09-23 12:16:43,Bearspaw Chapel,Gateway Stake,3,3,37,60.0,0,Blackmud Creek Ward,2,206,50.0,Gateway Stake 105,192,206.0,37,6
+2023-09-23 12:16:57,Bearspaw Chapel,Bonnie Doon Stake,2,0,12,60.0,0,Southgate Ward,2,196,60.0,Bonnie Doon Stake 91,127,196.0,12,2
+2023-09-23 12:17:00,Londonderry Chapel,Bonnie Doon Stake,3,0,150,120.0,1,Clareview Ward,4,450,65.0,Bonnie Doon Stake 92,127,450.0,150,3
+2023-09-23 12:17:02,Gateway Stake Centre,Gateway Stake,3,1,28,27.0,0,Ellerslie Ward,2,184,27.0,Gateway Stake 106,192,184.0,28,4
+2023-09-23 12:17:03,Londonderry Chapel,Bonnie Doon Stake,1,2,25,45.0,0,Clareview Ward,2,135,-30.894484412470025,Bonnie Doon Stake 93,127,135.0,25,3
+2023-09-23 12:17:25,North Stake Centre,Edmonton North Stake,1,0,7,45.0,0,Griesbach Ward,2,40,-675.0,Edmonton North Stake 32,57,40.0,7,1
+2023-09-23 12:17:56,Gateway Stake Centre,Gateway Stake,2,0,28,90.0,1,Silver Berry Ward,2,460,90.0,Gateway Stake 107,192,460.0,28,2
+2023-09-23 12:18:50,Gateway Stake Centre,Gateway Stake,2,0,17,60.0,0,Silver Berry Ward,2,153,-665.0,Gateway Stake 108,192,153.0,17,2
+2023-09-23 12:19:06,Londonderry Chapel,Bonnie Doon Stake,1,2,20,60.0,0,Clareview Ward,2,110,-613.0,Bonnie Doon Stake 94,127,110.0,20,3
+2023-09-23 12:19:42,Gateway Stake Centre,Gateway Stake,2,4,59,105.0,1,Silver Berry Ward,2,492,-615.0,Gateway Stake 109,192,492.0,59,6
+2023-09-23 12:19:45,Gateway Stake Centre,Gateway Stake,2,0,17,60.0,0,Silver Berry Ward,2,235,78.0,Gateway Stake 110,192,235.0,17,2
+2023-09-23 12:20:15,Riverbend Stake Centre,Riverbend Stake,2,1,100,90.0,1,Rabbit Hill Ward,3,482,137.0,Riverbend Stake 42,73,482.0,100,3
+2023-09-23 12:20:27,Gateway Stake Centre,Gateway Stake,2,3,65,65.0,1,Ellerslie Ward,3,65,65.0,Gateway Stake 111,192,65.0,65,5
+2023-09-23 12:20:30,Gateway Stake Centre,Gateway Stake,26,3,25,35.0,0,Ellerslie Ward,2,19,-687.0,Gateway Stake 112,192,19.0,25,29
+2023-09-23 12:20:56,Londonderry Chapel,Bonnie Doon Stake,2,0,15,20.0,0,Londonderry Ward,2,50,-30.894484412470025,Bonnie Doon Stake 95,127,50.0,15,2
+2023-09-23 12:21:26,Riverbend Stake Centre,Riverbend Stake,2,0,19,65.0,0,Rutherford Ward,2,174,65.0,Riverbend Stake 43,73,174.0,19,2
+2023-09-23 12:21:31,Londonderry Chapel,Bonnie Doon Stake,1,2,20,20.0,0,Clareview Ward,2,196,-641.0,Bonnie Doon Stake 96,127,196.0,20,3
+2023-09-23 12:21:31,Gateway Stake Centre,Gateway Stake,2,2,36,35.0,0,Silver Berry Ward,2,216,35.0,Gateway Stake 113,192,216.0,36,4
+2023-09-23 12:21:38,North Stake Centre,Edmonton North Stake,1,1,14,60.0,0,Griesbach Ward,2,135,70.0,Edmonton North Stake 33,57,135.0,14,2
+2023-09-23 12:21:42,Gateway Stake Centre,Gateway Stake,2,2,60,80.0,1,Silver Berry Ward,2,366,-620.0,Gateway Stake 114,192,366.0,60,4
+2023-09-23 12:22:04,Londonderry Chapel,Bonnie Doon Stake,3,1,30,60.0,0,Clareview Ward,2,196,-30.894484412470025,Bonnie Doon Stake 97,127,196.0,30,4
+2023-09-23 12:22:14,Londonderry Chapel,Bonnie Doon Stake,2,0,35,75.0,1,Londonderry Ward,3,75,-665.0,Bonnie Doon Stake 98,127,75.0,35,2
+2023-09-23 12:22:56,Gateway Stake Centre,Gateway Stake,1,2,24,30.0,0,Silver Berry Ward,2,244,28.0,Gateway Stake 115,192,244.0,24,3
+2023-09-23 12:24:58,Londonderry Chapel,Bonnie Doon Stake,2,2,60,60.0,1,Clareview Ward,3,165,-30.894484412470025,Bonnie Doon Stake 99,127,165.0,60,4
+2023-09-23 12:25:02,North Stake Centre,Edmonton North Stake,1,3,30,35.0,0,Namao Ward,2,272,35.0,Edmonton North Stake 34,57,272.0,30,4
+2023-09-23 12:25:04,Riverbend Stake Centre,Riverbend Stake,2,8,200,240.0,1,Rabbit Hill Ward,8,1420,120.0,Riverbend Stake 44,73,1420.0,200,10
+2023-09-23 12:25:06,Bearspaw Chapel,Gateway Stake,2,2,20,45.0,1,Beaumont Ward,2,350,-610.0,Gateway Stake 116,192,350.0,20,4
+2023-09-23 12:25:08,Gateway Stake Centre,Gateway Stake,2,3,25,40.0,0,Crawford Plains Ward,2,60,38.0,Gateway Stake 117,192,60.0,25,5
+2023-09-23 12:25:09,Bearspaw Chapel,Gateway Stake,1,4,30,45.0,0,Lee Ridge Ward,2,160,-675.0,Gateway Stake 118,192,160.0,30,5
+2023-09-23 12:26:31,Bearspaw Chapel,Gateway Stake,2,4,18,45.0,0,Blackmud Creek Ward,2,154,45.0,Gateway Stake 119,192,154.0,18,6
+2023-09-23 12:26:53,North Stake Centre,Edmonton North Stake,2,4,80,110.0,1,Griesbach Ward,5,500,-615.0,Edmonton North Stake 35,57,500.0,80,6
+2023-09-23 12:27:15,Bearspaw Chapel,Gateway Stake,1,1,20,60.0,0,Lee Ridge Ward,2,161,-665.0,Gateway Stake 120,192,161.0,20,2
+2023-09-23 12:28:02,Gateway Stake Centre,Gateway Stake,3,5,66,115.0,1,Silver Berry Ward,3,654,-593.0,Gateway Stake 121,192,654.0,66,8
+2023-09-23 12:28:07,Riverbend Stake Centre,Riverbend Stake,2,0,20,60.0,0,Woodbend Ward,2,137,60.0,Riverbend Stake 45,73,137.0,20,2
+2023-09-23 12:28:08,Bearspaw Chapel,Bonnie Doon Stake,2,4,45,90.0,1,Southgate Ward,2,196,-655.0,Bonnie Doon Stake 100,127,196.0,45,6
+2023-09-23 12:28:19,Londonderry Chapel,Bonnie Doon Stake,1,1,12,60.0,1,Londonderry Ward,1,196,45.0,Bonnie Doon Stake 101,127,196.0,12,2
+2023-09-23 12:28:31,Londonderry Chapel,Bonnie Doon Stake,1,0,55,180.0,0,Clareview Ward,2,225,-30.894484412470025,Bonnie Doon Stake 102,127,225.0,55,1
+2023-09-23 12:28:46,Gateway Stake Centre,Gateway Stake,1,2,17,40.0,1,Crawford Plains Ward,1,113,50.0,Gateway Stake 122,192,113.0,17,3
+2023-09-23 12:29:01,Bearspaw Chapel,Gateway Stake,2,3,50,45.0,0,Blackmud Creek Ward,2,240,45.0,Gateway Stake 123,192,240.0,50,5
+2023-09-23 12:30:01,Bearspaw Chapel,Gateway Stake,1,1,23,30.0,0,Lee Ridge Ward,2,196,30.0,Gateway Stake 124,192,196.0,23,2
+2023-09-23 12:30:34,Gateway Stake Centre,Gateway Stake,2,3,30,62.0,0,Ellerslie Ward,2,200,63.0,Gateway Stake 125,192,200.0,30,5
+2023-09-23 12:30:40,Londonderry Chapel,Bonnie Doon Stake,2,0,5,15.0,0,Londonderry Ward,2,218,-30.894484412470025,Bonnie Doon Stake 103,127,218.0,5,2
+2023-09-23 12:31:08,Bearspaw Chapel,Gateway Stake,2,1,21,35.0,0,Lee Ridge Ward,2,139,32.0,Gateway Stake 126,192,139.0,21,3
+2023-09-23 12:31:45,Gateway Stake Centre,Gateway Stake,2,4,50,45.0,0,Ellerslie Ward,2,236,60.0,Gateway Stake 127,192,236.0,50,6
+2023-09-23 12:32:27,Riverbend Stake Centre,Riverbend Stake,1,1,43,60.0,0,Rabbit Hill Ward,2,208,65.0,Riverbend Stake 46,73,208.0,43,2
+2023-09-23 12:32:32,Gateway Stake Centre,Gateway Stake,2,2,25,40.0,0,Silver Berry Ward,2,118,48.0,Gateway Stake 128,192,118.0,25,4
+2023-09-23 12:32:37,Gateway Stake Centre,Gateway Stake,1,0,29,69.0,0,Silver Berry Ward,2,266,-660.0,Gateway Stake 129,192,266.0,29,1
+2023-09-23 12:32:57,Gateway Stake Centre,Gateway Stake,2,0,40,65.0,0,Ellerslie Ward,2,239,-655.0,Gateway Stake 130,192,239.0,40,2
+2023-09-23 12:33:30,Gateway Stake Centre,Gateway Stake,2,2,85,90.0,1,Silver Berry Ward,3,585,-630.0,Gateway Stake 131,192,585.0,85,4
+2023-09-23 12:35:20,Bearspaw Chapel,Gateway Stake,2,1,30,40.0,1,Lee Ridge Ward,2,165,90.0,Gateway Stake 132,192,165.0,30,3
+2023-09-23 12:35:22,Gateway Stake Centre,Gateway Stake,1,1,18,26.0,0,Ellerslie Ward,2,201,25.0,Gateway Stake 133,192,201.0,18,2
+2023-09-23 12:35:45,Bearspaw Chapel,Bonnie Doon Stake,1,0,13,60.0,0,Strathcona Married Student Ward,2,196,61.0,Bonnie Doon Stake 104,127,196.0,13,1
+2023-09-23 12:36:17,Gateway Stake Centre,Gateway Stake,2,2,20,45.0,0,Lee Ridge Ward,2,151,-597.0,Gateway Stake 134,192,151.0,20,4
+2023-09-23 12:36:33,North Stake Centre,Edmonton North Stake,2,0,93,120.0,1,Griesbach Ward,3,552,-600.0,Edmonton North Stake 36,57,552.0,93,2
+2023-09-23 12:36:39,Gateway Stake Centre,Gateway Stake,2,3,22,40.0,0,Silver Berry Ward,2,118,-680.0,Gateway Stake 135,192,118.0,22,5
+2023-09-23 12:36:43,Riverbend Stake Centre,Riverbend Stake,4,0,80,120.0,1,Drayton Valley Ward,4,400,90.0,Riverbend Stake 47,73,400.0,80,4
+2023-09-23 12:36:51,Gateway Stake Centre,Gateway Stake,2,2,29,45.0,0,Silver Berry Ward,2,342,45.0,Gateway Stake 136,192,342.0,29,4
+2023-09-23 12:37:34,Bearspaw Chapel,Gateway Stake,2,1,35,40.0,1,Lee Ridge Ward,2,172,60.0,Gateway Stake 137,192,172.0,35,3
+2023-09-23 12:37:39,Bearspaw Chapel,Gateway Stake,1,0,23,60.0,0,Lee Ridge Ward,2,163,90.0,Gateway Stake 138,192,163.0,23,1
+2023-09-23 12:37:46,Gateway Stake Centre,Gateway Stake,2,2,17,37.0,0,Silver Berry Ward,2,186,37.0,Gateway Stake 139,192,186.0,17,4
+2023-09-23 12:38:26,Bearspaw Chapel,Bonnie Doon Stake,2,0,22,30.0,0,Southgate Ward,2,145,45.0,Bonnie Doon Stake 105,127,145.0,22,2
+2023-09-23 12:38:56,Riverbend Stake Centre,Riverbend Stake,2,0,8,15.0,0,Rutherford Ward,2,68,38.0,Riverbend Stake 48,73,68.0,8,2
+2023-09-23 12:38:58,Bearspaw Chapel,Bonnie Doon Stake,2,0,11,38.0,0,Strathcona Married Student Ward,2,158,43.0,Bonnie Doon Stake 106,127,158.0,11,2
+2023-09-23 12:39:07,Gateway Stake Centre,Gateway Stake,6,0,20,30.0,0,Silver Berry Ward,2,300,30.0,Gateway Stake 140,192,300.0,20,6
+2023-09-23 12:39:07,Bearspaw Chapel,Bonnie Doon Stake,2,3,60,90.0,1,Southgate Ward,2,257,-630.0,Bonnie Doon Stake 107,127,257.0,60,5
+2023-09-23 12:39:21,Riverbend Stake Centre,Riverbend Stake,2,1,80,60.0,1,Terwillegar Park Ward,2,300,-640.0,Riverbend Stake 49,73,300.0,80,3
+2023-09-23 12:39:28,Londonderry Chapel,Bonnie Doon Stake,2,1,42,110.0,1,Clareview Ward,2,191,-608.0,Bonnie Doon Stake 108,127,191.0,42,3
+2023-09-23 12:41:21,Bearspaw Chapel,Gateway Stake,2,3,32,30.0,0,Lee Ridge Ward,2,157,-675.0,Gateway Stake 141,192,157.0,32,5
+2023-09-23 12:41:23,Riverbend Stake Centre,Riverbend Stake,2,2,54,90.0,0,Woodbend Ward,2,350,100.0,Riverbend Stake 50,73,350.0,54,4
+2023-09-23 12:41:37,Riverbend Stake Centre,Riverbend Stake,3,1,100,105.0,1,Rabbit Hill Ward,2,80,-30.894484412470025,Riverbend Stake 51,73,80.0,100,4
+2023-09-23 12:42:05,Londonderry Chapel,Bonnie Doon Stake,4,0,200,240.0,1,Clareview Ward,7,607,-30.894484412470025,Bonnie Doon Stake 109,127,607.0,200,4
+2023-09-23 12:42:27,Londonderry Chapel,Bonnie Doon Stake,3,1,25,60.0,0,Clareview Ward,2,25,-30.894484412470025,Bonnie Doon Stake 110,127,25.0,25,4
+2023-09-23 12:42:36,Gateway Stake Centre,Gateway Stake,2,1,45,60.0,1,Rio Vista Ward,2,36,54.0,Gateway Stake 142,192,36.0,45,3
+2023-09-23 12:42:48,Riverbend Stake Centre,Riverbend Stake,3,1,110,120.0,1,Rabbit Hill Ward,3,430,100.0,Riverbend Stake 52,73,430.0,110,4
+2023-09-23 12:43:38,Bearspaw Chapel,Bonnie Doon Stake,2,0,58,75.0,1,Southgate Ward,3,196,70.0,Bonnie Doon Stake 111,127,196.0,58,2
+2023-09-23 12:43:53,Riverbend Stake Centre,Riverbend Stake,2,3,39,120.0,0,Greenfield Ward,2,110,109.0,Riverbend Stake 53,73,110.0,39,5
+2023-09-23 12:44:25,Gateway Stake Centre,Gateway Stake,2,2,35,80.0,1,Lee Ridge Ward,2,330,-640.0,Gateway Stake 143,192,330.0,35,4
+2023-09-23 12:44:29,Riverbend Stake Centre,Riverbend Stake,2,3,88,40.0,0,Woodbend Ward,2,380,15.0,Riverbend Stake 54,73,380.0,88,5
+2023-09-23 12:44:55,Riverbend Stake Centre,Riverbend Stake,1,3,12,30.0,0,Rutherford Ward,2,142,-690.0,Riverbend Stake 55,73,142.0,12,4
+2023-09-23 12:45:19,Gateway Stake Centre,Gateway Stake,3,4,33,30.0,1,Silver Berry Ward,3,206,-690.0,Gateway Stake 144,192,206.0,33,7
+2023-09-23 12:45:57,Bearspaw Chapel,Gateway Stake,3,0,30,45.0,0,Blackmud Creek Ward,2,171,45.0,Gateway Stake 145,192,171.0,30,3
+2023-09-23 12:46:23,North Stake Centre,Edmonton North Stake,3,0,60,120.0,1,Griesbach Ward,2,380,140.0,Edmonton North Stake 37,57,380.0,60,3
+2023-09-23 12:46:26,Bearspaw Chapel,Gateway Stake,4,5,14,30.0,0,Blackmud Creek Ward,2,196,30.0,Gateway Stake 146,192,196.0,14,9
+2023-09-23 12:47:20,Gateway Stake Centre,Gateway Stake,2,0,23,25.0,0,Lee Ridge Ward,2,160,25.0,Gateway Stake 147,192,160.0,23,2
+2023-09-23 12:47:22,Gateway Stake Centre,Gateway Stake,1,1,45,90.0,1,Ellerslie Ward,2,180,90.0,Gateway Stake 148,192,180.0,45,2
+2023-09-23 12:47:23,Riverbend Stake Centre,Riverbend Stake,2,4,80,105.0,1,Rabbit Hill Ward,4,74,-615.0,Riverbend Stake 56,73,74.0,80,6
+2023-09-23 12:48:07,Bearspaw Chapel,Bonnie Doon Stake,2,3,20,45.0,0,Southgate Ward,2,147,45.0,Bonnie Doon Stake 112,127,147.0,20,5
+2023-09-23 12:48:08,Riverbend Stake Centre,Riverbend Stake,2,0,100,90.0,1,Greenfield Ward,2,500,-625.0,Riverbend Stake 57,73,500.0,100,2
+2023-09-23 12:48:17,Bearspaw Chapel,Gateway Stake,3,0,8,30.0,0,Blackmud Creek Ward,2,60,30.0,Gateway Stake 149,192,60.0,8,3
+2023-09-23 12:49:19,Riverbend Stake Centre,Riverbend Stake,5,0,28,60.0,1,Rutherford Ward,2,260,92.0,Riverbend Stake 58,73,260.0,28,5
+2023-09-23 12:49:49,Bearspaw Chapel,Gateway Stake,3,4,14,60.0,1,Lee Ridge Ward,2,147,85.0,Gateway Stake 150,192,147.0,14,7
+2023-09-23 12:49:55,Riverbend Stake Centre,Riverbend Stake,2,2,65,80.0,1,Woodbend Ward,2,200,80.0,Riverbend Stake 59,73,200.0,65,4
+2023-09-23 12:50:16,Bearspaw Chapel,Gateway Stake,3,4,25,35.0,1,Lee Ridge Ward,2,166,-634.0,Gateway Stake 151,192,166.0,25,7
+2023-09-23 12:50:41,Riverbend Stake Centre,Riverbend Stake,2,2,67,60.0,1,Rutherford Ward,2,377,60.0,Riverbend Stake 60,73,377.0,67,4
+2023-09-23 12:51:38,Riverbend Stake Centre,Riverbend Stake,3,0,34,90.0,1,Rutherford Ward,2,246,-630.0,Riverbend Stake 61,73,246.0,34,3
+2023-09-23 12:51:39,Bearspaw Chapel,Gateway Stake,4,9,32,75.0,0,Blackmud Creek Ward,2,178,75.0,Gateway Stake 152,192,178.0,32,13
+2023-09-23 12:51:45,Gateway Stake Centre,Gateway Stake,1,1,25,25.0,0,Ellerslie Ward,2,226,25.0,Gateway Stake 153,192,226.0,25,2
+2023-09-23 12:52:20,Riverbend Stake Centre,Riverbend Stake,1,1,125,150.0,1,Terwillegar Park Ward,3,650,170.0,Riverbend Stake 62,73,650.0,125,2
+2023-09-23 12:53:43,North Stake Centre,Edmonton North Stake,2,2,145,150.0,1,Namao Ward,5,2500,-570.0,Edmonton North Stake 38,57,2500.0,145,4
+2023-09-23 12:53:43,Riverbend Stake Centre,Riverbend Stake,2,2,40,75.0,0,Rutherford Ward,2,215,-655.0,Riverbend Stake 63,73,215.0,40,4
+2023-09-23 12:55:32,Riverbend Stake Centre,Riverbend Stake,3,3,40,60.0,1,Terwillegar Park Ward,2,280,60.0,Riverbend Stake 64,73,280.0,40,6
+2023-09-23 12:55:47,Riverbend Stake Centre,Riverbend Stake,2,0,20,70.0,0,Woodbend Ward,2,160,75.0,Riverbend Stake 65,73,160.0,20,2
+2023-09-23 12:56:14,Riverbend Stake Centre,Riverbend Stake,4,0,65,60.0,0,Rabbit Hill Ward,2,300,-605.0,Riverbend Stake 66,73,300.0,65,4
+2023-09-23 12:56:24,Gateway Stake Centre,Gateway Stake,2,2,52,125.0,1,Crawford Plains Ward,3,324,105.0,Gateway Stake 154,192,324.0,52,4
+2023-09-23 12:56:39,Bearspaw Chapel,Gateway Stake,0,2,20,120.0,1,Lee Ridge Ward,2,163,-655.0,Gateway Stake 155,192,163.0,20,2
+2023-09-23 12:56:59,Bearspaw Chapel,Gateway Stake,0,2,20,60.0,1,Lee Ridge Ward,2,168,65.0,Gateway Stake 156,192,168.0,20,2
+2023-09-23 12:57:21,Gateway Stake Centre,Gateway Stake,2,2,37,140.0,1,Crawford Plains Ward,3,321,140.0,Gateway Stake 157,192,321.0,37,4
+2023-09-23 12:59:34,Riverbend Stake Centre,Riverbend Stake,4,0,56,120.0,1,Rabbit Hill Ward,2,200,103.0,Riverbend Stake 67,73,200.0,56,4
+2023-09-23 12:59:40,Riverbend Stake Centre,Riverbend Stake,2,0,35,90.0,1,Rutherford Ward,2,240,75.0,Riverbend Stake 68,73,240.0,35,2
+2023-09-23 13:00:26,North Stake Centre,Edmonton North Stake,1,3,22,40.0,0,Namao Ward,2,172,40.0,Edmonton North Stake 39,57,172.0,22,4
+2023-09-23 13:01:25,Gateway Stake Centre,Gateway Stake,2,5,39,45.0,1,Ellerslie Ward,2,466,45.0,Gateway Stake 158,192,466.0,39,7
+2023-09-23 13:01:40,Bearspaw Chapel,Gateway Stake,1,0,18,120.0,1,Lee Ridge Ward,2,40,120.0,Gateway Stake 159,192,40.0,18,1
+2023-09-23 13:02:31,Bearspaw Chapel,Gateway Stake,3,0,22,1.5,1,Lee Ridge Ward,2,158,180.0,Gateway Stake 160,192,158.0,22,3
+2023-09-23 13:03:28,Bearspaw Chapel,Gateway Stake,1,4,41,25.0,0,Blackmud Creek Ward,2,260,70.0,Gateway Stake 161,192,260.0,41,5
+2023-09-23 13:05:00,Riverbend Stake Centre,Riverbend Stake,1,0,25,80.0,1,Rabbit Hill Ward,2,273,-615.0,Riverbend Stake 69,73,273.0,25,1
+2023-09-23 13:05:08,Londonderry Chapel,Bonnie Doon Stake,2,0,1,30.0,0,Clareview Ward,2,100,754.0,Bonnie Doon Stake 113,127,100.0,1,2
+2023-09-23 13:06:17,Gateway Stake Centre,Gateway Stake,1,2,10,30.0,0,Ellerslie Ward,2,205,750.0,Gateway Stake 162,192,205.0,10,3
+2023-09-23 13:06:33,Bearspaw Chapel,Gateway Stake,2,3,42,30.0,0,Blackmud Creek Ward,2,95,53.0,Gateway Stake 163,192,95.0,42,5
+2023-09-23 13:08:55,Gateway Stake Centre,Gateway Stake,2,5,25,45.0,0,Ellerslie Ward,2,200,45.0,Gateway Stake 164,192,200.0,25,7
+2023-09-23 13:12:47,North Stake Centre,Edmonton North Stake,2,0,70,150.0,1,Griesbach Ward,3,400,120.0,Edmonton North Stake 40,57,400.0,70,2
+2023-09-23 13:16:29,North Stake Centre,Edmonton North Stake,2,0,69,150.0,1,Griesbach Ward,3,400,145.0,Edmonton North Stake 41,57,400.0,69,2
+2023-09-23 13:16:39,Bearspaw Chapel,Gateway Stake,33,4,19,20.0,1,Blackmud Creek Ward,2,109,20.0,Gateway Stake 165,192,109.0,19,37
+2023-09-23 13:18:52,Bearspaw Chapel,Gateway Stake,1,4,12,20.0,1,Blackmud Creek Ward,2,178,20.0,Gateway Stake 166,192,178.0,12,5
+2023-09-23 13:20:10,North Stake Centre,Edmonton North Stake,2,0,45,170.0,0,Namao Ward,2,316,165.0,Edmonton North Stake 42,57,316.0,45,2
+2023-09-23 13:23:02,North Stake Centre,Edmonton North Stake,1,0,17,15.0,0,Griesbach Ward,2,140,15.0,Edmonton North Stake 43,57,140.0,17,1
+2023-09-23 13:23:10,North Stake Centre,Edmonton North Stake,1,4,24,40.0,0,Namao Ward,2,211,-680.0,Edmonton North Stake 44,57,211.0,24,5
+2023-09-23 13:25:18,Gateway Stake Centre,Gateway Stake,1,3,77,120.0,1,Silver Berry Ward,2,472,120.0,Gateway Stake 167,192,472.0,77,4
+2023-09-23 13:26:56,Gateway Stake Centre,Gateway Stake,1,1,14,45.0,0,Silver Berry Ward,2,150,45.0,Gateway Stake 168,192,150.0,14,2
+2023-09-23 13:29:48,Gateway Stake Centre,Gateway Stake,2,2,124,165.0,1,Crawford Plains Ward,6,759,165.0,Gateway Stake 169,192,759.0,124,4
+2023-09-23 13:29:54,Riverbend Stake Centre,Riverbend Stake,2,3,25,45.0,0,Woodbend Ward,2,150,75.0,Riverbend Stake 70,73,150.0,25,5
+2023-09-23 13:30:39,Bearspaw Chapel,Gateway Stake,1,2,15,45.0,0,Lee Ridge Ward,2,162,110.0,Gateway Stake 170,192,162.0,15,3
+2023-09-23 13:30:58,Gateway Stake Centre,Gateway Stake,5,8,33,80.0,1,Rio Vista Ward,3,397,80.0,Gateway Stake 171,192,397.0,33,13
+2023-09-23 13:32:07,Gateway Stake Centre,Gateway Stake,2,1,50,135.0,1,Ellerslie Ward,2,419,135.0,Gateway Stake 172,192,419.0,50,3
+2023-09-23 13:32:16,Bearspaw Chapel,Gateway Stake,1,2,25,45.0,0,Lee Ridge Ward,2,160,120.0,Gateway Stake 173,192,160.0,25,3
+2023-09-23 13:34:54,Gateway Stake Centre,Gateway Stake,1,1,12,60.0,0,Crawford Plains Ward,2,92,60.0,Gateway Stake 174,192,92.0,12,2
+2023-09-23 13:46:40,Gateway Stake Centre,Gateway Stake,2,2,20,60.0,0,Ellerslie Ward,2,197,60.0,Gateway Stake 175,192,197.0,20,4
+2023-09-23 13:47:49,Bearspaw Chapel,Gateway Stake,2,1,14,60.0,0,Lee Ridge Ward,2,147,90.0,Gateway Stake 176,192,147.0,14,3
+2023-09-23 13:48:52,Bearspaw Chapel,Gateway Stake,1,4,13,35.0,0,Blackmud Creek Ward,2,177,40.0,Gateway Stake 177,192,177.0,13,5
+2023-09-23 13:55:30,Bearspaw Chapel,Gateway Stake,3,2,68,112.0,1,Lee Ridge Ward,3,466,-575.0,Gateway Stake 178,192,466.0,68,5
+2023-09-23 13:58:10,Bearspaw Chapel,Bonnie Doon Stake,5,3,555,90.0,1,Southgate Ward,3,200,90.0,Bonnie Doon Stake 114,127,200.0,555,8
+2023-09-23 14:21:32,Bearspaw Chapel,Bonnie Doon Stake,1,0,17,30.0,0,Southgate Ward,2,13,35.0,Bonnie Doon Stake 115,127,13.0,17,1
+2023-09-23 14:25:29,Bearspaw Chapel,Gateway Stake,2,0,19,45.0,0,Blackmud Creek Ward,2,100,220.0,Gateway Stake 179,192,100.0,19,2
+2023-09-23 14:27:36,Bearspaw Chapel,Gateway Stake,2,2,32,60.0,0,Blackmud Creek Ward,2,174,-645.0,Gateway Stake 180,192,174.0,32,4
+2023-09-23 14:42:08,Bearspaw Chapel,Gateway Stake,2,0,16,20.0,0,Blackmud Creek Ward,2,67,30.0,Gateway Stake 181,192,67.0,16,2
+2023-09-23 15:40:46,Gateway Stake Centre,Gateway Stake,38,2,29,45.0,1,Silver Berry Ward,2,339,45.0,Gateway Stake 182,192,339.0,29,40
+2023-09-23 15:42:44,Gateway Stake Centre,Gateway Stake,2,2,17,37.0,1,Silver Berry Ward,2,197,37.0,Gateway Stake 183,192,197.0,17,4
+2023-09-23 16:48:03,Bearspaw Chapel,Gateway Stake,2,0,20,60.0,0,Blackmud Creek Ward,2,123,-660.0,Gateway Stake 184,192,123.0,20,2
+2023-09-23 19:01:36,Bearspaw Chapel,Gateway Stake,39,3,49,60.0,1,Blackmud Creek Ward,2,241,89.0,Gateway Stake 185,192,241.0,49,42
+2023-09-23 19:02:03,Bearspaw Chapel,Gateway Stake,2,0,21,40.0,0,Blackmud Creek Ward,2,109,40.0,Gateway Stake 186,192,109.0,21,2
+2023-09-23 19:05:14,Bearspaw Chapel,Gateway Stake,2,2,25,10.0,0,Blackmud Creek Ward,2,190,50.0,Gateway Stake 187,192,190.0,25,4
+2023-09-23 19:19:20,Bearspaw Chapel,Gateway Stake,3,4,40,35.0,0,Blackmud Creek Ward,2,155,180.0,Gateway Stake 188,192,155.0,40,7
+2023-09-23 19:26:31,Parkland (Spruce Grove/Stony Plain),Edmonton North Stake,2,5,20,20.0,0,Stony Plain Ward,2,115,150.0,Edmonton North Stake 45,57,115.0,20,7
+2023-09-23 19:54:53,Riverbend Stake Centre,Riverbend Stake,2,10,29,40.0,1,Greenfield Ward,3,200,40.0,Riverbend Stake 71,73,200.0,29,12
+2023-09-23 19:57:32,Riverbend Stake Centre,Riverbend Stake,2,4,29,40.0,1,Terwillegar Park Ward,3,174,40.0,Riverbend Stake 72,73,174.0,29,6
+2023-09-23 19:59:04,Riverbend Stake Centre,Riverbend Stake,2,4,39,80.0,1,Terwillegar Park Ward,3,262,80.0,Riverbend Stake 73,73,262.0,39,6
+2023-09-23 19:59:48,Bearspaw Chapel,Gateway Stake,2,2,25,75.0,0,Blackmud Creek Ward,2,202,75.0,Gateway Stake 189,192,202.0,25,4
+2023-09-23 21:44:40,Bearspaw Chapel,Bonnie Doon Stake,4,5,34,55.0,0,Southgate Ward,2,157,55.0,Bonnie Doon Stake 116,127,157.0,34,9
+2023-09-23 22:22:03,Bearspaw Chapel,Gateway Stake,2,0,28,70.0,0,Lee Ridge Ward,2,142,60.0,Gateway Stake 190,192,142.0,28,2
+2023-09-23 22:56:45,Gateway Stake Centre,Gateway Stake,2,0,150,150.0,1,Crawford Plains Ward,6,196,150.0,Gateway Stake 191,192,196.0,150,2
+2023-09-24 07:41:33,Parkland (Spruce Grove/Stony Plain),Edmonton North Stake,1,0,16,30.0,0,Stony Plain Ward,2,196,30.0,Edmonton North Stake 46,57,196.0,16,1
+2023-09-24 09:22:35,Bearspaw Chapel,Bonnie Doon Stake,4,0,14,45.0,0,Southgate Ward,2,13,45.0,Bonnie Doon Stake 117,127,13.0,14,4
+2023-09-24 13:37:16,Bearspaw Chapel,Gateway Stake,2,0,22,60.0,0,Blackmud Creek Ward,2,196,-630.0,Gateway Stake 192,192,196.0,22,2
+2023-09-24 14:04:23,Parkland (Spruce Grove/Stony Plain),Edmonton North Stake,2,0,29,60.0,1,Stony Plain Ward,3,240,120.0,Edmonton North Stake 47,57,240.0,29,2
+2023-09-24 17:58:08,Bearspaw Chapel,Bonnie Doon Stake,1,4,30,30.0,0,Southgate Ward,2,130,30.0,Bonnie Doon Stake 118,127,130.0,30,5
+2023-09-24 21:45:56,Parkland (Spruce Grove/Stony Plain),Edmonton North Stake,2,0,140,30.0,0,Stony Plain Ward,2,130,60.0,Edmonton North Stake 48,57,130.0,140,2
+2023-09-24 23:04:02,Morinville,Edmonton North Stake,2,8,33,105.0,1,Namao Ward,2,525,100.0,Edmonton North Stake 49,57,525.0,33,10
+2023-09-25 23:38:57,Parkland (Spruce Grove/Stony Plain),Edmonton North Stake,1,3,52,72.0,1,Pioneer Ward,3,254,71.0,Edmonton North Stake 50,57,254.0,52,4
+2023-09-26 15:08:23,Bonnie Doon Stake Centre,Bonnie Doon Stake,2,1,9,10.0,0,Strathcona Married Student Ward,2,40,36.0,Bonnie Doon Stake 119,127,40.0,9,3
+2023-09-26 15:10:04,Bonnie Doon Stake Centre,Bonnie Doon Stake,1,2,24,20.0,1,Forest Heights Ward,2,120,43.0,Bonnie Doon Stake 120,127,120.0,24,3
+2023-09-26 15:12:01,Bonnie Doon Stake Centre,Bonnie Doon Stake,2,1,16,30.0,0,Forest Heights Ward,2,130,41.0,Bonnie Doon Stake 121,127,130.0,16,3
+2023-09-26 15:13:12,Bonnie Doon Stake Centre,Bonnie Doon Stake,3,0,14,30.0,0,Forest Heights Ward,2,110,51.0,Bonnie Doon Stake 122,127,110.0,14,3
+2023-09-26 15:14:49,Bonnie Doon Stake Centre,Bonnie Doon Stake,2,0,6,10.0,0,Forest Heights Ward,2,60,45.0,Bonnie Doon Stake 123,127,60.0,6,2
+2023-09-26 15:16:00,Bonnie Doon Stake Centre,Bonnie Doon Stake,2,0,12,20.0,0,Strathcona Married Student Ward,2,66,41.0,Bonnie Doon Stake 124,127,66.0,12,2
+2023-09-26 15:17:20,Bonnie Doon Stake Centre,Bonnie Doon Stake,1,0,7,25.0,0,Connors Hill Ward,2,100,35.0,Bonnie Doon Stake 125,127,100.0,7,1
+2023-09-26 15:18:41,Bonnie Doon Stake Centre,Bonnie Doon Stake,3,0,28,90.0,0,Connors Hill Ward,2,65,65.0,Bonnie Doon Stake 126,127,65.0,28,3
+2023-09-26 15:47:54,Bonnie Doon Stake Centre,Bonnie Doon Stake,2,2,36,45.0,1,Forest Heights Ward,2,150,63.0,Bonnie Doon Stake 127,127,150.0,36,4
+2023-09-26 19:46:56,Morinville,Edmonton North Stake,1,3,80,240.0,1,Namao Ward,2,420,240.0,Edmonton North Stake 51,57,420.0,80,4
+2023-09-27 08:41:35,Onoway,Edmonton North Stake,2,0,10,45.0,0,Onoway Ward,2,196,45.0,Edmonton North Stake 52,57,196.0,10,2
+2023-09-27 14:24:33,North Stake Centre,Edmonton North Stake,2,0,20,20.0,0,Namao Ward,2,150,45.0,Edmonton North Stake 53,57,150.0,20,2
+2023-09-27 14:24:35,North Stake Centre,Edmonton North Stake,2,0,20,20.0,0,Namao Ward,2,150,45.0,Edmonton North Stake 54,57,150.0,20,2
+2023-09-28 20:44:23,Parkland (Spruce Grove/Stony Plain),Edmonton North Stake,2,4,51,60.0,1,Stony Plain Ward,2,196,120.0,Edmonton North Stake 55,57,196.0,51,6
+2023-10-15 11:15:43,North Stake Centre,Edmonton North Stake,3,0,78,150.0,1,Griesbach Ward,3,600,150.0,Edmonton North Stake 56,57,600.0,78,3
+2024-09-10 16:03:36,Londonderry Chapel,Edmonton North Stake,2,2,5,2.0,0,Lago Lindo Branch,2,196,-30.894484412470025,Edmonton North Stake 57,57,196.0,5,4
