@@ -24,11 +24,15 @@ if __name__ == "__main__":
     
     # Example input data (values should match feature order used during training)
     input_data = {
-        'Routes Completed': 5,
-        'Time to Complete (min)': 120,
-        '# of Adult Volunteers': 3,
-        '# of Youth Volunteers': 2,
-        'Total Volunteers': 5
+        "Routes Completed": 5,
+        "Time to Complete (min)": 120,
+        "Doors in Route": 25,
+        "AvgDoorsPerRoute": 10,
+        "Total Volunteers": 5,
+        "# of Adult Volunteers": 3,
+        "# of Youth Volunteers": 2,
+        "VolunteersPerDoor": 3,
+        "TimePerVolunteer": 5
     }
     
     prediction = predictor.predict(input_data)
