@@ -39,6 +39,6 @@ The goal of this project is to build a system that automates and optimizes the p
   
 ## Prerequisites
 - Docker
-- Python 3.9 or higher
+- Python 
 - Docker Compose
 - Git (for version control)
