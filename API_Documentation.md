@@ -4,7 +4,7 @@
 This Food Drive API is designed to predict donation bag collection based on various fctors such as completed routes, volunteer data, and time spent collecting donations. The API supports multiple models to improve accuracy and handle different prediction scenarios. 
 
 # BASE URL: 
-http://127.0.0.1:9000
+http://0.0.0.0:5000
 
 # ENDPOINTS: 
 1. Home Endpoint -
