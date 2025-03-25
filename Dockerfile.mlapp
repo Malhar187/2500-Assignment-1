@@ -1,0 +1,24 @@
+# Use a lightweight Python image
+FROM python:3.9-slim
+
+# Set the working directory inside the container
+WORKDIR /app
+
+# Copy the requirements file and install dependencies
+COPY docs/requirements.txt /app/requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Copy the source code files into the container
+COPY src/ /app/src/   
+
+# Copy the model files into the container
+COPY Models/ /app/Models/  
+
+# Copy the configuration files into the container
+COPY .dvc/ /app/config/  
+
+# Expose the port for the API
+EXPOSE 5000
+
+# Command to run when the container starts (API for predictions)
+CMD ["python", "src/predict_api.py"]

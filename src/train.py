@@ -1,10 +1,27 @@
 import pandas as pd
 import mlflow
 import mlflow.sklearn
+import logging
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_squared_error, r2_score, mean_absolute_error
+import os
+
+# Set up logging
+log_dir = os.environ.get("LOG_DIR", "logs")
+os.makedirs(log_dir, exist_ok=True)
+
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.StreamHandler(),
+        logging.FileHandler(f"{log_dir}/train.log")
+    ]
+)
+
+logger = logging.getLogger("ml_app.train")
 
 class DonationModelTrainer:
     def __init__(self, data_2023_path: str, data_2024_path: str):
@@ -28,6 +45,7 @@ class DonationModelTrainer:
     
     def _prepare_data(self):
         """Prepares and renames data columns for consistency."""
+        logger.info("Preparing data by renaming columns and removing duplicates.")
         self.data_2023.rename(columns=self.column_mapping, inplace=True)
         self.data_2024.rename(columns=self.column_mapping, inplace=True)
 
@@ -36,21 +54,25 @@ class DonationModelTrainer:
 
     def train_models(self):
         """Trains Linear Regression and Random Forest models, logging results in MLflow."""
+        logger.info("Starting model training process.")
         X = self.data_2023[self.features]
         y = self.data_2023[self.target]
         X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
         
         # Keep input_example as a pandas DataFrame (to retain feature names)
         input_example = X_train.iloc[[0]]
+        
         # Start MLflow Experiment
         mlflow.set_experiment("Donation_Prediction_Experiment")
 
         with mlflow.start_run():
+            logger.info("Training Linear Regression Model.")
             # Train Linear Regression Model
             lr_model = LinearRegression()
             lr_model.fit(X_train, y_train)
             y_pred_lr = lr_model.predict(X_test)
 
+            logger.info("Training Random Forest Model.")
             # Train Random Forest Model
             rf_model = RandomForestRegressor(n_estimators=100, random_state=42)
             rf_model.fit(X_train, y_train)
@@ -66,6 +88,8 @@ class DonationModelTrainer:
                 "rf_mae": mean_absolute_error(y_test, y_pred_rf)
             }
 
+            logger.info(f"Metrics computed: {metrics}")
+
             # Log Parameters
             mlflow.log_param("n_estimators_rf", 100)
 
@@ -77,7 +101,7 @@ class DonationModelTrainer:
             mlflow.sklearn.log_model(lr_model, "Linear_Regression_Model", input_example=input_example)
             mlflow.sklearn.log_model(rf_model, "Random_Forest_Model", input_example=input_example)
 
-            print(f"Metrics logged in MLflow: {metrics}")
+            logger.info("Models and metrics logged successfully in MLflow.")
 
         return y_pred_lr, y_pred_rf
 
@@ -85,5 +109,6 @@ class DonationModelTrainer:
 data_2023_path = 'Data/processed/data_2023_donation_processed.csv'
 data_2024_path = 'Data/processed/data_2024_donation_processed.csv'
 
+logger.info("Initializing DonationModelTrainer.")
 donation_trainer = DonationModelTrainer(data_2023_path, data_2024_path)
 y_pred_lr, y_pred_rf = donation_trainer.train_models()

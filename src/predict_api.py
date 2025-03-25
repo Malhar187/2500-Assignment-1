@@ -2,6 +2,11 @@ from flask import Flask, request, jsonify
 import joblib
 import pandas as pd
 from predict import DonationModelPredictor
+import logging
+
+# Set up logging
+logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
 app = Flask(__name__)
 
@@ -54,13 +59,13 @@ def predict_v1():
     try:
         # Step 1: Get input JSON from the request
         input_data = request.get_json()
-        print(f"Received input data: {input_data}")  # Debugging: print received data
+        logger.debug(f"Received input data: {input_data}")  # Logging received data
 
         # Step 2: Ensure input_data is a list of dictionaries
         if isinstance(input_data, dict):
             input_data = [input_data]  # If it's a single dictionary, convert to list
 
-        print(f"Data after ensuring list format: {input_data}")  # Debugging: print the list
+        logger.debug(f"Data after ensuring list format: {input_data}")  # Logging the list format
         
         # Step 3: Check that input_data is a list of dictionaries and convert it to a DataFrame
         if isinstance(input_data, list) and all(isinstance(item, dict) for item in input_data):
@@ -78,34 +83,35 @@ def predict_v1():
         # Ensure that all expected features are in the DataFrame
         missing_cols = [col for col in expected_features if col not in input_df.columns]
         if missing_cols:
+            logger.error(f"Missing required columns: {missing_cols}")  # Logging the error
             return jsonify({"error": f"Missing required columns: {missing_cols}"}), 400
 
         # Step 5: Extract the data for prediction (assuming input_df has the correct columns)
         input_data_for_prediction = input_df[expected_features].iloc[0].to_dict()  # Extract data as dictionary
-        print(f"Data extracted for prediction: {input_data_for_prediction}")  # Debugging
+        logger.debug(f"Data extracted for prediction: {input_data_for_prediction}")  # Logging extracted data
 
         # Step 6: Use the predictor to get the prediction
         prediction = predictor_v1.predict(input_data_for_prediction)
 
+        logger.info(f"Prediction result: {prediction}")  # Logging the prediction result
         return jsonify({"Predicted Donation Bags with model_v1": prediction})
     
     except Exception as e:
+        logger.error(f"Error during prediction: {str(e)}")  # Logging the error
         return jsonify({"error": str(e)}), 500
-    
 
-     
 @app.route("/predict/v2", methods=["POST"])
 def predict_v2():
     try:
         # Step 1: Get input JSON from the request
         input_data = request.get_json()
-        print(f"Received input data: {input_data}")  # Debugging: print received data
+        logger.debug(f"Received input data: {input_data}")  # Logging received data
 
         # Step 2: Ensure input_data is a list of dictionaries
         if isinstance(input_data, dict):
             input_data = [input_data]  # If it's a single dictionary, convert to list
 
-        print(f"Data after ensuring list format: {input_data}")  # Debugging: print the list
+        logger.debug(f"Data after ensuring list format: {input_data}")  # Logging the list format
         
         # Step 3: Check that input_data is a list of dictionaries and convert it to a DataFrame
         if isinstance(input_data, list) and all(isinstance(item, dict) for item in input_data):
@@ -121,20 +127,23 @@ def predict_v2():
         # Ensure that all expected features are in the DataFrame
         missing_cols = [col for col in expected_features_v2 if col not in input_df.columns]
         if missing_cols:
+            logger.error(f"Missing required columns: {missing_cols}")  # Logging the error
             return jsonify({"error": f"Missing required columns: {missing_cols}"}), 400
 
         # Step 5: Extract the data for prediction 
         input_data_for_prediction_v2 = input_df[expected_features_v2].iloc[0].to_dict()  # Extract data as dictionary
-        print(f"Data extracted for prediction_v2: {input_data_for_prediction_v2}")  # Debugging
+        logger.debug(f"Data extracted for prediction_v2: {input_data_for_prediction_v2}")  # Logging extracted data
 
         # Step 6: Use the predictor to get the prediction
         prediction_v2 = predictor_v2.predict(input_data_for_prediction_v2)
 
+        logger.info(f"Prediction result for model_v2: {prediction_v2}")  # Logging the prediction result
         return jsonify({"Predicted Donation Bags with model_v2": prediction_v2})
     
     except Exception as e:
+        logger.error(f"Error during prediction: {str(e)}")  # Logging the error
         return jsonify({"error": str(e)}), 500
 
 
 if __name__ == "__main__":
-    app.run(host="127.0.0.1", port=9000, debug=True)
+    app.run(host="0.0.0.0", port=5000, debug=True)
