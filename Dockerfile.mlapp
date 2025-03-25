@@ -1,3 +1,5 @@
+# This file was compiled by Paramvir Singh and Malhar Singh. We were having some issues with matching the requirements.txt file with this one, as the versions had to be same during training and app publishing. 
+
 # Use a lightweight Python image
 FROM python:3.9-slim
 
