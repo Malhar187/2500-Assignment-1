@@ -8,6 +8,8 @@ WORKDIR /mlflow
 
 # Install MLflow and dependencies
 RUN pip install --no-cache-dir mlflow pymysql
+RUN pip install mlflow
+
 
 # Expose the MLflow UI port
 EXPOSE 5000
