@@ -6,3 +6,7 @@ scikit-learn==1.6.0
 streamlit==1.41.0
 flask==2.1.1
 werkzeug==2.1.1
+prometheus_flask_exporter
+mlflow
+psutil
+prometheus_client

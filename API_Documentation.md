@@ -115,7 +115,7 @@ The API returns appropriate error messages in case of incorrect input formats or
 # USAGE EXAMPLES:
 *cURL Example for Model v1 Prediction:*
 
-curl -X POST "http://127.0.0.1:9000/predict/v1" \
+curl -X POST "http://127.0.0.1:5001/predict/v1" \
      -H "Content-Type: application/json" \
      -d '{
             "Routes Completed": 5,
@@ -131,7 +131,7 @@ curl -X POST "http://127.0.0.1:9000/predict/v1" \
 
 *cURL Example for Model v2 Prediction:*
 
-curl -X POST "http://127.0.0.1:9000/predict/v2" \
+curl -X POST "http://127.0.0.1:5001/predict/v2" \
      -H "Content-Type: application/json" \
      -d '{
             "AvgDoorsPerRoute": 10,

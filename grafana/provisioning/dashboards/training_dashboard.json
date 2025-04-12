@@ -1,0 +1,20 @@
+{
+    "dashboard": {
+      "title": "Training Metrics",
+      "panels": [
+        {
+          "type": "graph",
+          "title": "Training Loss",
+          "targets": [
+            {
+              "expr": "training_loss",
+              "legendFormat": "Loss"
+            }
+          ],
+          "datasource": "Prometheus",
+          "id": 1,
+          "gridPos": { "x": 0, "y": 0, "w": 12, "h": 6 }
+        }
+      ]
+    }
+  }
